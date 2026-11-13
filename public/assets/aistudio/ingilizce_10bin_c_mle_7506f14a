@@ -1,0 +1,4745 @@
+I am happy.,1
+I am tired.,2
+I am ready.,3
+I am busy.,4
+I am hungry.,5
+I am thirsty.,6
+I am a teacher.,7
+I am an English learner.,8
+I am at home.,9
+I am at school.,10
+I have a book.,11
+I have a pen.,12
+I have a notebook.,13
+I have a computer.,14
+I have a phone.,15
+I have a bag.,16
+I have a car.,17
+I have a family.,18
+I have a question.,19
+I have time.,20
+My name is Volkan.,21
+I live in Ereğli.,22
+I live in Türkiye.,23
+I like English.,24
+I like reading books.,25
+I like coffee.,26
+I like tea.,27
+I like music.,28
+I like learning new things.,29
+I like helping people.,30
+I go to work every day.,31
+I get up early.,32
+I eat breakfast every morning.,33
+I drink water every day.,34
+I study English every day.,35
+I write English sentences.,36
+I read English books.,37
+I watch English videos.,38
+I listen to English podcasts.,39
+I practice every day.,40
+This is my book.,41
+That is my bag.,42
+These are my keys.,43
+Those are my shoes.,44
+Is this your pen?,45
+"Yes, it is.",46
+"No, it isn’t.",47
+Thank you very much.,48
+You’re welcome.,49
+Have a nice day.,50
+You are my friend.,51
+You are kind.,52
+You are happy.,53
+You are a student.,54
+You are very smart.,55
+You have a car.,56
+You have a computer.,57
+You like music.,58
+You like English.,59
+You study every day.,60
+He is my brother.,61
+He is tall.,62
+He is strong.,63
+He is a doctor.,64
+He is very busy.,65
+He has a bike.,66
+He has a dog.,67
+He likes football.,68
+He drinks coffee.,69
+He works every day.,70
+She is my sister.,71
+She is beautiful.,72
+She is a teacher.,73
+She is very friendly.,74
+She is at home.,75
+She has a cat.,76
+She has a new phone.,77
+She likes flowers.,78
+She reads books.,79
+She speaks English.,80
+We are friends.,81
+We are happy.,82
+We are ready.,83
+We are teachers.,84
+We are at school.,85
+We have a lesson.,86
+We have homework.,87
+We study together.,88
+We learn English.,89
+We help each other.,90
+They are students.,91
+They are at home.,92
+They are busy.,93
+They are friendly.,94
+They have a new house.,95
+They have two children.,96
+They play football.,97
+They watch television.,98
+They work together.,99
+They speak Turkish.,100
+I work every day.,101
+I study English every evening.,102
+I read books every night.,103
+I write in my notebook.,104
+I drink coffee in the morning.,105
+I eat fruit every day.,106
+I watch English videos.,107
+I listen to music after work.,108
+I learn new words every day.,109
+I practice English every morning.,110
+You work very hard.,111
+You study every day.,112
+You read many books.,113
+You write beautiful sentences.,114
+You drink tea every morning.,115
+You eat healthy food.,116
+You watch interesting movies.,117
+You listen carefully.,118
+You learn quickly.,119
+You practice every day.,120
+He works every day.,121
+He studies English.,122
+He reads newspapers.,123
+He writes emails.,124
+He drinks coffee.,125
+He eats breakfast at seven.,126
+He watches television.,127
+He listens to music.,128
+He learns quickly.,129
+He practices every evening.,130
+She works in a hospital.,131
+She studies French.,132
+She reads novels.,133
+She writes stories.,134
+She drinks milk.,135
+She eats vegetables.,136
+She watches movies.,137
+She listens to podcasts.,138
+She learns fast.,139
+She practices every weekend.,140
+We work together.,141
+We study English every day.,142
+We read books together.,143
+We write emails.,144
+We watch documentaries.,145
+They work in a factory.,146
+They study mathematics.,147
+They read magazines.,148
+They write reports.,149
+They practice every afternoon.,150
+I open the window every morning.,151
+I close the door at night.,152
+I clean my room every Saturday.,153
+I wash my hands before meals.,154
+I cook dinner for my family.,155
+I answer my emails every day.,156
+I ask many questions in class.,157
+I use my computer every day.,158
+I carry my bag to school.,159
+I finish my work at five.,160
+You open the door carefully.,161
+You close the window quietly.,162
+You clean your desk every day.,163
+You wash your car on Sundays.,164
+You cook delicious meals.,165
+You answer every question.,166
+You ask good questions.,167
+You use your phone a lot.,168
+You carry heavy boxes.,169
+You finish your homework early.,170
+He opens the shop at eight.,171
+He closes the office at six.,172
+He cleans his room every weekend.,173
+He washes his car every Saturday.,174
+He cooks very well.,175
+He answers the phone quickly.,176
+He asks many questions.,177
+He uses a laptop at work.,178
+He carries a black backpack.,179
+He finishes his homework before dinner.,180
+She opens the book slowly.,181
+She closes the window.,182
+She cleans the kitchen every day.,183
+She washes the dishes after dinner.,184
+She cooks breakfast every morning.,185
+She answers the teacher politely.,186
+She asks for help.,187
+She uses a dictionary.,188
+She carries a small bag.,189
+She finishes her work on time.,190
+We open the windows every morning.,191
+We close the doors every evening.,192
+We clean the classroom together.,193
+We wash our hands before lunch.,194
+We cook together on weekends.,195
+We answer the teacher’s questions.,196
+We ask for more time.,197
+We use English in class.,198
+We carry our books to school.,199
+We finish the lesson happily.,200
+I open the window every morning.,201
+I close the door at night.,202
+I clean my room every Saturday.,203
+I wash my hands before meals.,204
+I cook dinner for my family.,205
+I answer my emails every day.,206
+I ask many questions in class.,207
+I use my computer every day.,208
+I carry my bag to school.,209
+I finish my work at five.,210
+You open the door carefully.,211
+You close the window quietly.,212
+You clean your desk every day.,213
+You wash your car on Sundays.,214
+You cook delicious meals.,215
+You answer every question.,216
+You ask good questions.,217
+You use your phone a lot.,218
+You carry heavy boxes.,219
+You finish your homework early.,220
+He opens the shop at eight.,221
+He closes the office at six.,222
+He cleans his room every weekend.,223
+He washes his car every Saturday.,224
+He cooks very well.,225
+He answers the phone quickly.,226
+He asks many questions.,227
+He uses a laptop at work.,228
+He carries a black backpack.,229
+He finishes his homework before dinner.,230
+She opens the book slowly.,231
+She closes the window.,232
+She cleans the kitchen every day.,233
+She washes the dishes after dinner.,234
+She cooks breakfast every morning.,235
+She answers the teacher politely.,236
+She asks for help.,237
+She uses a dictionary.,238
+She carries a small bag.,239
+She finishes her work on time.,240
+We open the windows every morning.,241
+We close the doors every evening.,242
+We clean the classroom together.,243
+We wash our hands before lunch.,244
+We cook together on weekends.,245
+We answer the teacher’s questions.,246
+We ask for more time.,247
+We use English in class.,248
+We carry our books to school.,249
+We finish the lesson happily.,250
+We buy fresh fruit every Saturday.,251
+We sell homemade cakes at the market.,252
+We pay our bills online.,253
+We call our friends every weekend.,254
+We visit our relatives during holidays.,255
+We meet after school.,256
+We help each other every day.,257
+We need more information.,258
+We want better results.,259
+We enjoy spending time together.,260
+They buy new clothes every season.,261
+They sell their products online.,262
+They pay in cash.,263
+They call their parents every evening.,264
+They visit museums on weekends.,265
+They meet at the café every Friday.,266
+They help old people.,267
+They need more experience.,268
+They want a bigger house.,269
+They enjoy traveling together.,270
+I make my bed every morning.,271
+I make coffee before work.,272
+I make notes during the lesson.,273
+I make good decisions.,274
+I make time for my family.,275
+I take the bus to work.,276
+I take a shower every morning.,277
+I take my notebook to class.,278
+I take photos during my trips.,279
+I take a short break after lunch.,280
+You make delicious soup.,281
+You make useful plans.,282
+You make new friends easily.,283
+You make careful choices.,284
+You make everyone smile.,285
+You take your medicine every day.,286
+You take English lessons.,287
+You take your children to school.,288
+You take your time.,289
+You take responsibility.,290
+He makes breakfast every Sunday.,291
+He makes useful tools.,292
+He makes funny jokes.,293
+He makes important decisions.,294
+He makes mistakes sometimes.,295
+He takes the train to work.,296
+He takes his dog for a walk.,297
+He takes many photos.,298
+He takes English classes.,299
+He takes care of his family.,300
+I work every day.,301
+I don’t work on Sundays.,302
+Do I work every day?,303
+You study English every evening.,304
+You don’t study English at night.,305
+Do you study English every evening?,306
+He reads a newspaper every morning.,307
+He doesn’t read magazines.,308
+Does he read a newspaper every morning?,309
+She writes in her notebook every day.,310
+She doesn’t write on the wall.,311
+Does she write in her notebook every day?,312
+We drink coffee together.,313
+We don’t drink coffee at night.,314
+Do we drink coffee together?,315
+They watch television after dinner.,316
+They don’t watch television in the morning.,317
+Do they watch television after dinner?,318
+I eat breakfast at seven o’clock.,319
+I don’t eat breakfast late.,320
+Do I eat breakfast at seven o’clock?,321
+You open the window every morning.,322
+You don’t open the door.,323
+Do you open the window every morning?,324
+He closes the shop at six.,325
+He doesn’t close the shop early.,326
+Does he close the shop at six?,327
+She helps her friends every week.,328
+She doesn’t help strangers.,329
+Does she help her friends every week?,330
+We learn new words every day.,331
+We don’t learn French.,332
+Do we learn new words every day?,333
+They clean the classroom every Friday.,334
+They don’t clean the office.,335
+Do they clean the classroom every Friday?,336
+I call my parents every weekend.,337
+I don’t call them during work.,338
+Do I call my parents every weekend?,339
+You use a computer every day.,340
+You don’t use a typewriter.,341
+Do you use a computer every day?,342
+He buys fresh bread every morning.,343
+He doesn’t buy cakes.,344
+Does he buy fresh bread every morning?,345
+She visits the library every Saturday.,346
+She doesn’t visit the museum every week.,347
+Does she visit the library every Saturday?,348
+We enjoy learning English.,349
+Don’t we enjoy learning English?,350
+I live in a small town.,351
+I don’t live in a big city.,352
+Do I live in a small town?,353
+You live near your school.,354
+You don’t live far from work.,355
+Do you live near your school?,356
+He lives with his family.,357
+He doesn’t live alone.,358
+Does he live with his family?,359
+She lives in a beautiful house.,360
+She doesn’t live in an apartment.,361
+Does she live in a beautiful house?,362
+We live in the same neighborhood.,363
+We don’t live in different cities.,364
+Do we live in the same neighborhood?,365
+They live near the sea.,366
+They don’t live in the mountains.,367
+Do they live near the sea?,368
+I speak English every day.,369
+I don’t speak German.,370
+Do I speak English every day?,371
+You speak very clearly.,372
+You don’t speak too fast.,373
+Do you speak very clearly?,374
+He speaks Turkish and English.,375
+He doesn’t speak French.,376
+Does he speak Turkish and English?,377
+She speaks quietly.,378
+She doesn’t speak loudly.,379
+Does she speak quietly?,380
+We speak English in class.,381
+We don’t speak during the exam.,382
+Do we speak English in class?,383
+They speak to the teacher every morning.,384
+They don’t speak during the movie.,385
+Do they speak to the teacher every morning?,386
+I understand the lesson.,387
+I don’t understand this question.,388
+Do I understand the lesson?,389
+You understand the rules.,390
+You don’t understand the answer.,391
+Do you understand the rules?,392
+He understands the problem.,393
+He doesn’t understand the instructions.,394
+Does he understand the problem?,395
+She understands the lesson very well.,396
+She doesn’t understand difficult words.,397
+Does she understand the lesson very well?,398
+We understand each other.,399
+Don’t we understand each other?,400
+I go to school every weekday.,401
+I don’t go to school on Sunday.,402
+Do I go to school every weekday?,403
+You go to work by bus.,404
+You don’t go to work by taxi.,405
+Do you go to work by bus?,406
+He goes to the gym every Monday.,407
+He doesn’t go to the gym on Friday.,408
+Does he go to the gym every Monday?,409
+She goes shopping every weekend.,410
+She doesn’t go shopping on Monday.,411
+Does she go shopping every weekend?,412
+We go to the library together.,413
+We don’t go there every day.,414
+Do we go to the library together?,415
+They go to the park after school.,416
+They don’t go to the park in the rain.,417
+Do they go to the park after school?,418
+I come home at six o’clock.,419
+I don’t come home late.,420
+Do I come home at six o’clock?,421
+You come to class early.,422
+You don’t come to class late.,423
+Do you come to class early?,424
+He comes to work on time.,425
+He doesn’t come to work by car.,426
+Does he come to work on time?,427
+She comes to the office every morning.,428
+She doesn’t come on Saturdays.,429
+Does she come to the office every morning?,430
+We arrive at school before eight.,431
+We don’t arrive late.,432
+Do we arrive before eight?,433
+They arrive at the station together.,434
+They don’t arrive before us.,435
+Do they arrive at the station together?,436
+I leave home at seven.,437
+I don’t leave home without my keys.,438
+Do I leave home at seven?,439
+You leave the office at five.,440
+You don’t leave your bag here.,441
+Do you leave the office at five?,442
+He leaves work at six.,443
+He doesn’t leave early.,444
+Does he leave work at six?,445
+She starts her lesson at nine.,446
+She doesn’t start late.,447
+Does she start her lesson at nine?,448
+We finish our work together.,449
+Don’t we finish our work together?,450
+They start work at eight o’clock.,451
+They don’t start work late.,452
+Do they start work at eight o’clock?,453
+I finish my homework before dinner.,454
+I don’t finish my homework at school.,455
+Do I finish my homework before dinner?,456
+You finish your lesson at three.,457
+You don’t finish your lesson at four.,458
+Do you finish your lesson at three?,459
+He finishes his breakfast quickly.,460
+He doesn’t finish his coffee.,461
+Does he finish his breakfast quickly?,462
+She finishes her work on time.,463
+She doesn’t finish her project today.,464
+Does she finish her work on time?,465
+We finish our meeting at noon.,466
+We don’t finish before eleven.,467
+Do we finish our meeting at noon?,468
+They finish the lesson together.,469
+They don’t finish the test early.,470
+Do they finish the lesson together?,471
+I need more time.,472
+I don’t need more money.,473
+Do I need more time?,474
+You need a new notebook.,475
+You don’t need a new phone.,476
+Do you need a new notebook?,477
+He needs some help.,478
+He doesn’t need a taxi.,479
+Does he need some help?,480
+She needs a cup of coffee.,481
+She doesn’t need any sugar.,482
+Does she need a cup of coffee?,483
+We need more practice.,484
+We don’t need another lesson today.,485
+Do we need more practice?,486
+They need clean water.,487
+They don’t need our help.,488
+Do they need clean water?,489
+I want to learn English.,490
+I don’t want to waste time.,491
+Do I want to learn English?,492
+You know the answer.,493
+You don’t know my name.,494
+Do you know the answer?,495
+He remembers my birthday.,496
+He doesn’t remember my phone number.,497
+Does he remember my birthday?,498
+She knows the truth.,499
+Doesn’t she know the truth?,500
+I think about my future every day.,501
+I don’t think this book is difficult.,502
+Do I think about my future every day?,503
+You think very carefully.,504
+You don’t think negatively.,505
+Do you think very carefully?,506
+He thinks before he speaks.,507
+He doesn’t think the test is easy.,508
+Does he think before he speaks?,509
+She thinks English is interesting.,510
+She doesn’t think the movie is boring.,511
+Does she think English is interesting?,512
+We think our team is strong.,513
+We don’t think the lesson is difficult.,514
+Do we think our team is strong?,515
+They think the weather is nice.,516
+They don’t think the road is safe.,517
+Do they think the weather is nice?,518
+I believe you.,519
+I don’t believe every story.,520
+Do I believe you?,521
+You believe in yourself.,522
+You don’t believe everything you read.,523
+Do you believe in yourself?,524
+He believes his friends.,525
+He doesn’t believe the rumor.,526
+Does he believe his friends?,527
+She believes she can succeed.,528
+She doesn’t believe the news.,529
+Does she believe she can succeed?,530
+We believe in hard work.,531
+We don’t believe false information.,532
+Do we believe in hard work?,533
+They believe the teacher.,534
+They don’t believe the advertisement.,535
+Do they believe the teacher?,536
+I feel happy today.,537
+I don’t feel tired.,538
+Do I feel happy today?,539
+You feel better now.,540
+You don’t feel sick.,541
+Do you feel better now?,542
+He feels cold in winter.,543
+He doesn’t feel nervous.,544
+Does he feel cold in winter?,545
+She feels excited about the trip.,546
+She doesn’t feel afraid.,547
+Does she feel excited about the trip?,548
+We feel ready.,549
+Don’t we feel ready?,550
+They feel happy after the game.,551
+They don’t feel tired today.,552
+Do they feel happy after the game?,553
+I look at the board carefully.,554
+I don’t look at my phone during class.,555
+Do I look at the board carefully?,556
+You look very happy today.,557
+You don’t look worried.,558
+Do you look very happy today?,559
+He looks out of the window.,560
+He doesn’t look angry.,561
+Does he look out of the window?,562
+She looks at the map.,563
+She doesn’t look confused.,564
+Does she look at the map?,565
+We look for our books.,566
+We don’t look for excuses.,567
+Do we look for our books?,568
+They look at the teacher.,569
+They don’t look at each other.,570
+Do they look at the teacher?,571
+I see a bird in the tree.,572
+I don’t see any mistakes.,573
+Do I see a bird in the tree?,574
+You see the mountains from your window.,575
+You don’t see the answer.,576
+Do you see the mountains from your window?,577
+He sees his friends every weekend.,578
+He doesn’t see his cousin often.,579
+Does he see his friends every weekend?,580
+She sees a beautiful flower.,581
+She doesn’t see the sign.,582
+Does she see a beautiful flower?,583
+We see our teacher every morning.,584
+We don’t see him on Sunday.,585
+Do we see our teacher every morning?,586
+They see many tourists in summer.,587
+They don’t see snow in July.,588
+Do they see many tourists in summer?,589
+I hear the birds every morning.,590
+I don’t hear any noise.,591
+Do I hear the birds every morning?,592
+You hear the music clearly.,593
+You don’t hear the alarm.,594
+Do you hear the music clearly?,595
+He hears his phone ringing.,596
+He doesn’t hear the question.,597
+Does he hear his phone ringing?,598
+She hears the baby crying.,599
+Doesn’t she hear the baby crying?,600
+I find my keys every morning.,601
+I don’t find my keys easily.,602
+Do I find my keys every morning?,603
+You find interesting books at the library.,604
+You don’t find many books there.,605
+Do you find interesting books at the library?,606
+He finds new ideas every day.,607
+He doesn’t find the work difficult.,608
+Does he find new ideas every day?,609
+She finds her phone under the table.,610
+She doesn’t find the answer quickly.,611
+Does she find her phone under the table?,612
+We find useful information online.,613
+We don’t find everything on the internet.,614
+Do we find useful information online?,615
+They find a quiet place near the sea.,616
+They don’t find a good restaurant nearby.,617
+Do they find a quiet place near the sea?,618
+I give my students useful information.,619
+I don’t give them difficult tasks.,620
+Do I give my students useful information?,621
+You give good advice to your friends.,622
+You don’t give false information.,623
+Do you give good advice to your friends?,624
+He gives his mother flowers.,625
+He doesn’t give his brother money.,626
+Does he give his mother flowers?,627
+She gives me a useful book.,628
+She doesn’t give me her phone.,629
+Does she give you a useful book?,630
+We give our students enough time.,631
+We don’t give them too much homework.,632
+Do we give our students enough time?,633
+They give food to the animals.,634
+They don’t give the animals unhealthy food.,635
+Do they give food to the animals?,636
+I get up early every morning.,637
+I don’t get up late on weekdays.,638
+Do I get up early every morning?,639
+You get good results from your work.,640
+You don’t get tired easily.,641
+Do you get good results from your work?,642
+He gets home at seven.,643
+He doesn’t get home late.,644
+Does he get home at seven?,645
+She gets many emails every day.,646
+She doesn’t get many phone calls.,647
+Does she get many emails every day?,648
+We get enough sleep at night.,649
+Don’t we get enough sleep at night?,650
+I keep my room clean.,651
+I don’t keep old newspapers.,652
+Do I keep my room clean?,653
+You keep your books on the shelf.,654
+You don’t keep your phone in your bag.,655
+Do you keep your books on the shelf?,656
+He keeps his promises.,657
+He doesn’t keep secrets from his family.,658
+Does he keep his promises?,659
+She keeps her clothes in the closet.,660
+She doesn’t keep unnecessary things.,661
+Does she keep her clothes in the closet?,662
+We keep our classroom clean.,663
+We don’t keep food in the classroom.,664
+Do we keep our classroom clean?,665
+They keep their house warm in winter.,666
+They don’t keep the windows open at night.,667
+Do they keep their house warm in winter?,668
+I put my keys on the table.,669
+I don’t put my phone there.,670
+Do I put my keys on the table?,671
+You put your books in your bag.,672
+You don’t put your clothes on the floor.,673
+Do you put your books in your bag?,674
+He puts his shoes near the door.,675
+He doesn’t put his bag on the chair.,676
+Does he put his shoes near the door?,677
+She puts flowers on the table.,678
+She doesn’t put sugar in her coffee.,679
+Does she put flowers on the table?,680
+We put our coats in the closet.,681
+We don’t put our bags on the floor.,682
+Do we put our coats in the closet?,683
+They put their bicycles in the garage.,684
+They don’t put their tools outside.,685
+Do they put their bicycles in the garage?,686
+I use my phone for work.,687
+I don’t use my phone during meals.,688
+Do I use my phone for work?,689
+You use the internet every day.,690
+You don’t use this computer.,691
+Do you use the internet every day?,692
+He uses a dictionary in class.,693
+He doesn’t use a translator.,694
+Does he use a dictionary in class?,695
+She uses her computer for studying.,696
+She doesn’t use social media at work.,697
+Does she use her computer for studying?,698
+We use simple words in class.,699
+Don’t we use simple words in class?,700
+I try to speak English every day.,701
+I don’t try to speak too quickly.,702
+Do I try to speak English every day?,703
+You try to learn new words.,704
+You don’t try to memorize every word.,705
+Do you try to learn new words?,706
+He tries to help his friends.,707
+He doesn’t try to solve every problem.,708
+Does he try to help his friends?,709
+She tries to read English books.,710
+She doesn’t try to read difficult books.,711
+Does she try to read English books?,712
+We try to practice every morning.,713
+We don’t try to study all day.,714
+Do we try to practice every morning?,715
+They try to arrive on time.,716
+They don’t try to leave early.,717
+Do they try to arrive on time?,718
+I remember your name.,719
+I don’t remember his address.,720
+Do I remember your name?,721
+You remember my birthday.,722
+You don’t remember every detail.,723
+Do you remember my birthday?,724
+He remembers his first teacher.,725
+He doesn’t remember her phone number.,726
+Does he remember his first teacher?,727
+She remembers the important things.,728
+She doesn’t remember the exact date.,729
+Does she remember the important things?,730
+We remember our old friends.,731
+We don’t remember every name.,732
+Do we remember our old friends?,733
+They remember the meeting.,734
+They don’t remember the exact time.,735
+Do they remember the meeting?,736
+I forget things sometimes.,737
+I don’t forget important dates.,738
+Do I forget things sometimes?,739
+You forget your keys sometimes.,740
+You don’t forget your homework.,741
+Do you forget your keys sometimes?,742
+He forgets his password often.,743
+He doesn’t forget his friends.,744
+Does he forget his password often?,745
+She forgets names easily.,746
+She doesn’t forget important information.,747
+Does she forget names easily?,748
+We forget our problems when we travel.,749
+Don’t we forget our problems when we travel?,750
+I hope everything goes well.,751
+I don’t hope for easy answers.,752
+Do I hope everything goes well?,753
+You hope for good news.,754
+You don’t hope for problems.,755
+Do you hope for good news?,756
+He hopes to find a better job.,757
+He doesn’t hope to leave early.,758
+Does he hope to find a better job?,759
+She hopes to learn English quickly.,760
+She doesn’t hope to finish today.,761
+Does she hope to learn English quickly?,762
+We hope to see you soon.,763
+We don’t hope to stay here long.,764
+Do we hope to see you soon?,765
+They hope to travel next year.,766
+They don’t hope to stay at home.,767
+Do they hope to travel next year?,768
+I mean what I say.,769
+I don’t mean to hurt you.,770
+Do I mean what I say?,771
+You mean this word.,772
+You don’t mean that word.,773
+Do you mean this word?,774
+He means well.,775
+He doesn’t mean any harm.,776
+Does he mean well?,777
+She means what she says.,778
+She doesn’t mean to be rude.,779
+Does she mean what she says?,780
+We mean the same thing.,781
+We don’t mean anything bad.,782
+Do we mean the same thing?,783
+They mean different things.,784
+They don’t mean the same thing.,785
+Do they mean different things?,786
+I remember to lock the door.,787
+I don’t remember to turn off the lights.,788
+Do I remember to lock the door?,789
+You remember to call your mother.,790
+You don’t remember to bring your book.,791
+Do you remember to call your mother?,792
+He forgets to close the window.,793
+He doesn’t forget to take his keys.,794
+Does he forget to close the window?,795
+She forgets to charge her phone.,796
+She doesn’t forget to check her email.,797
+Does she forget to charge her phone?,798
+We remember to study every day.,799
+Don’t we remember to study every day?,800
+I plan my day every morning.,801
+I don’t plan everything in advance.,802
+Do I plan my day every morning?,803
+You plan your lessons carefully.,804
+You don’t plan your weekends.,805
+Do you plan your lessons carefully?,806
+He plans his work every Monday.,807
+He doesn’t plan his holidays early.,808
+Does he plan his work every Monday?,809
+She plans her meals for the week.,810
+She doesn’t plan every detail.,811
+Does she plan her meals for the week?,812
+We plan our trips together.,813
+We don’t plan our holidays in winter.,814
+Do we plan our trips together?,815
+They plan their projects carefully.,816
+They don’t plan everything alone.,817
+Do they plan their projects carefully?,818
+I change my clothes every day.,819
+I don’t change my plans easily.,820
+Do I change my clothes every day?,821
+You change your password regularly.,822
+You don’t change your phone often.,823
+Do you change your password regularly?,824
+He changes his shoes before work.,825
+He doesn’t change his plans quickly.,826
+Does he change his shoes before work?,827
+She changes her hairstyle often.,828
+She doesn’t change her job frequently.,829
+Does she change her hairstyle often?,830
+We change our plans when necessary.,831
+We don’t change our schedule every week.,832
+Do we change our plans when necessary?,833
+They change their clothes after work.,834
+They don’t change their address often.,835
+Do they change their clothes after work?,836
+I check my email every morning.,837
+I don’t check my phone during dinner.,838
+Do I check my email every morning?,839
+You check your homework carefully.,840
+You don’t check every answer twice.,841
+Do you check your homework carefully?,842
+He checks the weather before work.,843
+He doesn’t check his messages at night.,844
+Does he check the weather before work?,845
+She checks her calendar every morning.,846
+She doesn’t check her phone in class.,847
+Does she check her calendar every morning?,848
+We check the doors before we leave.,849
+Don’t we check the doors before we leave?,850
+I check my schedule every morning.,851
+I don’t check my messages during class.,852
+Do I check my schedule every morning?,853
+You check the door before you leave.,854
+You don’t check your phone while driving.,855
+Do you check the door before you leave?,856
+He checks his car every week.,857
+He doesn’t check the engine himself.,858
+Does he check his car every week?,859
+She checks the list carefully.,860
+She doesn’t check the price twice.,861
+Does she check the list carefully?,862
+We check our work before the lesson.,863
+We don’t check our phones during meetings.,864
+Do we check our work before the lesson?,865
+They check the information online.,866
+They don’t check the news every hour.,867
+Do they check the information online?,868
+I follow the instructions carefully.,869
+I don’t follow every rule.,870
+Do I follow the instructions carefully?,871
+You follow the teacher’s advice.,872
+You don’t follow bad advice.,873
+Do you follow the teacher’s advice?,874
+He follows the same routine every day.,875
+He doesn’t follow the crowd.,876
+Does he follow the same routine every day?,877
+She follows the instructions step by step.,878
+She doesn’t follow the old system.,879
+Does she follow the instructions step by step?,880
+We follow the rules at school.,881
+We don’t follow unnecessary rules.,882
+Do we follow the rules at school?,883
+They follow the road to the village.,884
+They don’t follow the wrong direction.,885
+Do they follow the road to the village?,886
+I move my chair near the window.,887
+I don’t move my desk every day.,888
+Do I move my chair near the window?,889
+You move very quickly.,890
+You don’t move the table alone.,891
+Do you move very quickly?,892
+He moves to a new house every few years.,893
+He doesn’t move without a plan.,894
+Does he move to a new house every few years?,895
+She moves her car into the garage.,896
+She doesn’t move the furniture alone.,897
+Does she move her car into the garage?,898
+We move carefully on the wet floor.,899
+Don’t we move carefully on the wet floor?,900
+I bring my notebook to class every day.,901
+I don’t bring my laptop every day.,902
+Do I bring my notebook to class every day?,903
+You bring your lunch from home.,904
+You don’t bring food to the classroom.,905
+Do you bring your lunch from home?,906
+He brings his children to school every morning.,907
+He doesn’t bring his car to work.,908
+Does he bring his children to school every morning?,909
+She brings fresh fruit to work.,910
+She doesn’t bring expensive food.,911
+Does she bring fresh fruit to work?,912
+We bring our books to every lesson.,913
+We don’t bring unnecessary things.,914
+Do we bring our books to every lesson?,915
+They bring their own chairs.,916
+They don’t bring extra furniture.,917
+Do they bring their own chairs?,918
+I send an email every morning.,919
+I don’t send messages at night.,920
+Do I send an email every morning?,921
+You send useful information to your students.,922
+You don’t send personal messages at work.,923
+Do you send useful information to your students?,924
+He sends a message to his friend.,925
+He doesn’t send emails on Sunday.,926
+Does he send a message to his friend?,927
+She sends her reports every Friday.,928
+She doesn’t send incomplete reports.,929
+Does she send her reports every Friday?,930
+We send our homework to the teacher.,931
+We don’t send it late.,932
+Do we send our homework to the teacher?,933
+They send letters to their customers.,934
+They don’t send letters every day.,935
+Do they send letters to their customers?,936
+I wait for the bus every morning.,937
+I don’t wait for the bus for a long time.,938
+Do I wait for the bus every morning?,939
+You wait outside the building.,940
+You don’t wait in the car.,941
+Do you wait outside the building?,942
+He waits for his friends after school.,943
+He doesn’t wait for them at home.,944
+Does he wait for his friends after school?,945
+She waits for the train every morning.,946
+She doesn’t wait alone at night.,947
+Does she wait for the train every morning?,948
+We wait for the teacher before class.,949
+Don’t we wait for the teacher before class?,950
+I stay at home on rainy days.,951
+I don’t stay at home all weekend.,952
+Do I stay at home on rainy days?,953
+You stay with your family during holidays.,954
+You don’t stay in expensive hotels.,955
+Do you stay with your family during holidays?,956
+He stays at work until five.,957
+He doesn’t stay late on Fridays.,958
+Does he stay at work until five?,959
+She stays with her friends on weekends.,960
+She doesn’t stay out late.,961
+Does she stay with her friends on weekends?,962
+We stay in the classroom during the break.,963
+We don’t stay there after school.,964
+Do we stay in the classroom during the break?,965
+They stay near the beach during summer.,966
+They don’t stay there in winter.,967
+Do they stay near the beach during summer?,968
+I listen to English every morning.,969
+I don’t listen to music while I work.,970
+Do I listen to English every morning?,971
+You listen to your teacher carefully.,972
+You don’t listen to loud music at night.,973
+Do you listen to your teacher carefully?,974
+He listens to the news every morning.,975
+He doesn’t listen to the radio at work.,976
+Does he listen to the news every morning?,977
+She listens to English podcasts every day.,978
+She doesn’t listen to them on Sundays.,979
+Does she listen to English podcasts every day?,980
+We listen to our students carefully.,981
+We don’t listen to unnecessary conversations.,982
+Do we listen to our students carefully?,983
+They listen to music after dinner.,984
+They don’t listen to music during the lesson.,985
+Do they listen to music after dinner?,986
+I use English at work.,987
+I don’t use difficult words.,988
+Do I use English at work?,989
+You use your time wisely.,990
+You don’t use your phone during class.,991
+Do you use your time wisely?,992
+He uses his computer every evening.,993
+He doesn’t use the computer at night.,994
+Does he use his computer every evening?,995
+She uses simple sentences when she teaches.,996
+She doesn’t use complicated words.,997
+Does she use simple sentences when she teaches?,998
+We practice English every day.,999
+Don’t we practice English every day?,1000
+I am reading a book now.,1001
+I am not reading a newspaper now.,1002
+Am I reading a book now?,1003
+You are studying English now.,1004
+You are not studying German now.,1005
+Are you studying English now?,1006
+He is working in his office.,1007
+He is not working at home today.,1008
+Is he working in his office?,1009
+She is cooking dinner now.,1010
+She is not cooking lunch now.,1011
+Is she cooking dinner now?,1012
+We are learning English together.,1013
+We are not learning French today.,1014
+Are we learning English together?,1015
+They are playing football in the park.,1016
+They are not playing basketball.,1017
+Are they playing football in the park?,1018
+I am writing an email now.,1019
+I am not writing a letter.,1020
+Am I writing an email now?,1021
+You are listening to music.,1022
+You are not listening to the radio.,1023
+Are you listening to music?,1024
+He is watching television.,1025
+He is not watching a movie.,1026
+Is he watching television?,1027
+She is drinking coffee.,1028
+She is not drinking tea.,1029
+Is she drinking coffee?,1030
+We are having breakfast now.,1031
+We are not having dinner.,1032
+Are we having breakfast now?,1033
+They are waiting for the bus.,1034
+They are not waiting for a taxi.,1035
+Are they waiting for the bus?,1036
+I am cleaning my room.,1037
+I am not cleaning the kitchen.,1038
+Am I cleaning my room?,1039
+You are using the computer.,1040
+You are not using your phone.,1041
+Are you using the computer?,1042
+He is driving to work.,1043
+He is not driving to school.,1044
+Is he driving to work?,1045
+She is talking to her friend.,1046
+She is not talking to her teacher.,1047
+Is she talking to her friend?,1048
+We are waiting outside.,1049
+We are not waiting inside.,1050
+I am walking to school now.,1051
+I am not walking to work today.,1052
+Am I walking to school now?,1053
+You are sitting in the classroom.,1054
+You are not sitting near the window.,1055
+Are you sitting in the classroom?,1056
+He is standing near the door.,1057
+He is not standing outside.,1058
+Is he standing near the door?,1059
+She is looking at the board.,1060
+She is not looking at her phone.,1061
+Is she looking at the board?,1062
+We are talking about our plans.,1063
+We are not talking about work.,1064
+Are we talking about our plans?,1065
+They are running in the park.,1066
+They are not running on the road.,1067
+Are they running in the park?,1068
+I am waiting for my friend.,1069
+I am not waiting for the bus.,1070
+Am I waiting for my friend?,1071
+You are wearing a blue shirt.,1072
+You are not wearing a jacket.,1073
+Are you wearing a blue shirt?,1074
+He is wearing new shoes.,1075
+He is not wearing a coat.,1076
+Is he wearing new shoes?,1077
+She is washing the dishes.,1078
+She is not washing the clothes.,1079
+Is she washing the dishes?,1080
+We are preparing dinner.,1081
+We are not preparing breakfast.,1082
+Are we preparing dinner?,1083
+They are building a new house.,1084
+They are not building a school.,1085
+Are they building a new house?,1086
+I am opening the window.,1087
+I am not opening the door.,1088
+Am I opening the window?,1089
+You are closing the curtains.,1090
+You are not closing the windows.,1091
+Are you closing the curtains?,1092
+He is carrying a heavy bag.,1093
+He is not carrying a box.,1094
+Is he carrying a heavy bag?,1095
+She is buying some vegetables.,1096
+She is not buying any fruit.,1097
+Is she buying some vegetables?,1098
+We are waiting for the teacher.,1099
+Are we waiting for the teacher?,1100
+I am making breakfast now.,1101
+I am not making dinner.,1102
+Am I making breakfast now?,1103
+You are drinking water.,1104
+You are not drinking coffee.,1105
+Are you drinking water?,1106
+He is reading a book in his room.,1107
+He is not reading a newspaper.,1108
+Is he reading a book in his room?,1109
+She is writing a message to her friend.,1110
+She is not writing an email.,1111
+Is she writing a message to her friend?,1112
+We are watching a movie together.,1113
+We are not watching television.,1114
+Are we watching a movie together?,1115
+They are playing games in the garden.,1116
+They are not playing inside the house.,1117
+Are they playing games in the garden?,1118
+I am learning new words today.,1119
+I am not learning new grammar rules.,1120
+Am I learning new words today?,1121
+You are practicing English at home.,1122
+You are not practicing Spanish today.,1123
+Are you practicing English at home?,1124
+He is fixing his bicycle.,1125
+He is not fixing his car.,1126
+Is he fixing his bicycle?,1127
+She is cleaning the kitchen.,1128
+She is not cleaning the bathroom.,1129
+Is she cleaning the kitchen?,1130
+We are painting the walls.,1131
+We are not painting the doors.,1132
+Are we painting the walls?,1133
+They are moving to a new house.,1134
+They are not moving this week.,1135
+Are they moving to a new house?,1136
+I am checking my email.,1137
+I am not checking social media.,1138
+Am I checking my email?,1139
+You are looking for your keys.,1140
+You are not looking for your wallet.,1141
+Are you looking for your keys?,1142
+He is talking on the phone.,1143
+He is not talking to his teacher.,1144
+Is he talking on the phone?,1145
+She is waiting for the train.,1146
+She is not waiting for the bus.,1147
+Is she waiting for the train?,1148
+We are having lunch together.,1149
+We are not having dinner together.,1150
+I am taking a shower now.,1151
+I am not taking a bath.,1152
+Am I taking a shower now?,1153
+You are taking a break.,1154
+You are not taking a long break.,1155
+Are you taking a break?,1156
+He is taking a photo of the building.,1157
+He is not taking a photo of the car.,1158
+Is he taking a photo of the building?,1159
+She is taking notes in class.,1160
+She is not taking notes at home.,1161
+Is she taking notes in class?,1162
+We are taking a walk in the park.,1163
+We are not taking a bus.,1164
+Are we taking a walk in the park?,1165
+They are taking the train to the city.,1166
+They are not taking a taxi.,1167
+Are they taking the train to the city?,1168
+I am giving my friend some advice.,1169
+I am not giving him any money.,1170
+Am I giving my friend some advice?,1171
+You are giving the students an example.,1172
+You are not giving them a difficult task.,1173
+Are you giving the students an example?,1174
+He is giving his daughter a present.,1175
+He is not giving her a book.,1176
+Is he giving his daughter a present?,1177
+She is giving me directions.,1178
+She is not giving me any information.,1179
+Is she giving me directions?,1180
+We are giving the children some food.,1181
+We are not giving them sweets.,1182
+Are we giving the children some food?,1183
+They are giving their teacher a gift.,1184
+They are not giving him flowers.,1185
+Are they giving their teacher a gift?,1186
+I am getting ready for work.,1187
+I am not getting ready for school.,1188
+Am I getting ready for work?,1189
+You are getting better every day.,1190
+You are not getting worse.,1191
+Are you getting better every day?,1192
+He is getting a new computer.,1193
+He is not getting a new phone.,1194
+Is he getting a new computer?,1195
+She is getting some coffee from the kitchen.,1196
+She is not getting any tea.,1197
+Is she getting some coffee from the kitchen?,1198
+We are getting ready for the lesson.,1199
+Are we getting ready for the lesson?,1200
+I am looking at the pictures now.,1201
+I am not looking at the television.,1202
+Am I looking at the pictures now?,1203
+You are looking for your glasses.,1204
+You are not looking for your keys.,1205
+Are you looking for your glasses?,1206
+He is looking at the map.,1207
+He is not looking at the road.,1208
+Is he looking at the map?,1209
+She is looking through the window.,1210
+She is not looking at the door.,1211
+Is she looking through the window?,1212
+We are looking for a new apartment.,1213
+We are not looking for a hotel.,1214
+Are we looking for a new apartment?,1215
+They are looking at the stars.,1216
+They are not looking at the moon.,1217
+Are they looking at the stars?,1218
+I am seeing my doctor today.,1219
+I am not seeing my doctor tomorrow.,1220
+Am I seeing my doctor today?,1221
+You are seeing your friends this evening.,1222
+You are not seeing them this morning.,1223
+Are you seeing your friends this evening?,1224
+He is meeting his manager today.,1225
+He is not meeting his manager tomorrow.,1226
+Is he meeting his manager today?,1227
+She is meeting her friends after work.,1228
+She is not meeting them before work.,1229
+Is she meeting her friends after work?,1230
+We are visiting our relatives this weekend.,1231
+We are not visiting them next weekend.,1232
+Are we visiting our relatives this weekend?,1233
+They are traveling to Spain this summer.,1234
+They are not traveling to Italy this summer.,1235
+Are they traveling to Spain this summer?,1236
+I am staying at home tonight.,1237
+I am not staying at the hotel tonight.,1238
+Am I staying at home tonight?,1239
+You are staying with your friends this week.,1240
+You are not staying with your family this week.,1241
+Are you staying with your friends this week?,1242
+He is leaving the office now.,1243
+He is not leaving the building yet.,1244
+Is he leaving the office now?,1245
+She is coming home after work.,1246
+She is not coming home before six.,1247
+Is she coming home after work?,1248
+We are going to the supermarket now.,1249
+We are not going to the shopping center.,1250
+I am cooking dinner for my family.,1251
+I am not cooking lunch today.,1252
+Am I cooking dinner for my family?,1253
+You are preparing your lesson now.,1254
+You are not preparing a test today.,1255
+Are you preparing your lesson now?,1256
+He is repairing his computer.,1257
+He is not repairing his phone.,1258
+Is he repairing his computer?,1259
+She is studying for her exam.,1260
+She is not studying for her test at home.,1261
+Is she studying for her exam?,1262
+We are discussing an important topic.,1263
+We are not discussing the problem now.,1264
+Are we discussing an important topic?,1265
+They are working on a new project.,1266
+They are not working on the old project.,1267
+Are they working on a new project?,1268
+I am checking the information again.,1269
+I am not checking the same page again.,1270
+Am I checking the information again?,1271
+You are learning new expressions.,1272
+You are not learning difficult grammar today.,1273
+Are you learning new expressions?,1274
+He is explaining the problem to his students.,1275
+He is not explaining the whole lesson.,1276
+Is he explaining the problem to his students?,1277
+She is answering the questions.,1278
+She is not answering the phone.,1279
+Is she answering the questions?,1280
+We are writing new sentences.,1281
+We are not writing long paragraphs.,1282
+Are we writing new sentences?,1283
+They are reading an interesting article.,1284
+They are not reading a newspaper.,1285
+Are they reading an interesting article?,1286
+I am trying to improve my English.,1287
+I am not trying to learn everything today.,1288
+Am I trying to improve my English?,1289
+You are making good progress.,1290
+You are not making the same mistake.,1291
+Are you making good progress?,1292
+He is getting ready for school.,1293
+He is not getting ready for work.,1294
+Is he getting ready for school?,1295
+She is looking for a new job.,1296
+She is not looking for a new apartment.,1297
+Is she looking for a new job?,1298
+We are practicing English together.,1299
+We are not practicing English alone.,1300
+I am reading the news this morning.,1301
+I am not reading the newspaper today.,1302
+Am I reading the news this morning?,1303
+You are watching a new series.,1304
+You are not watching a documentary.,1305
+Are you watching a new series?,1306
+He is listening to an English podcast.,1307
+He is not listening to the radio.,1308
+Is he listening to an English podcast?,1309
+She is speaking to her teacher.,1310
+She is not speaking to her classmates.,1311
+Is she speaking to her teacher?,1312
+We are learning a new lesson.,1313
+We are not learning mathematics today.,1314
+Are we learning a new lesson?,1315
+They are practicing their pronunciation.,1316
+They are not practicing their writing.,1317
+Are they practicing their pronunciation?,1318
+I am writing a short story.,1319
+I am not writing a long report.,1320
+Am I writing a short story?,1321
+You are reading the instructions carefully.,1322
+You are not reading the comments.,1323
+Are you reading the instructions carefully?,1324
+He is looking at his notes.,1325
+He is not looking at his phone.,1326
+Is he looking at his notes?,1327
+She is taking notes during the lesson.,1328
+She is not taking photos.,1329
+Is she taking notes during the lesson?,1330
+We are discussing the new project.,1331
+We are not discussing the old project.,1332
+Are we discussing the new project?,1333
+They are preparing for the meeting.,1334
+They are not preparing for an exam.,1335
+Are they preparing for the meeting?,1336
+I am waiting for an answer.,1337
+I am not waiting for a phone call.,1338
+Am I waiting for an answer?,1339
+You are working on your computer.,1340
+You are not working on your phone.,1341
+Are you working on your computer?,1342
+He is sending an email to his manager.,1343
+He is not sending a message to his friend.,1344
+Is he sending an email to his manager?,1345
+She is checking the documents.,1346
+She is not checking the old files.,1347
+Is she checking the documents?,1348
+We are making a plan for tomorrow.,1349
+We are not making a plan for next month.,1350
+I am learning English at the moment.,1351
+I am not learning Spanish at the moment.,1352
+Am I learning English at the moment?,1353
+You are sitting at your desk.,1354
+You are not sitting on the sofa.,1355
+Are you sitting at your desk?,1356
+He is working on his computer.,1357
+He is not working on his tablet.,1358
+Is he working on his computer?,1359
+She is reading a book in the garden.,1360
+She is not reading a magazine.,1361
+Is she reading a book in the garden?,1362
+We are having a meeting now.,1363
+We are not having a lesson now.,1364
+Are we having a meeting now?,1365
+They are playing cards in the living room.,1366
+They are not playing computer games.,1367
+Are they playing cards in the living room?,1368
+I am drinking a glass of water.,1369
+I am not drinking a cup of coffee.,1370
+Am I drinking a glass of water?,1371
+You are eating lunch with your friends.,1372
+You are not eating dinner yet.,1373
+Are you eating lunch with your friends?,1374
+He is washing his car outside.,1375
+He is not washing his bicycle.,1376
+Is he washing his car outside?,1377
+She is cleaning her desk.,1378
+She is not cleaning the classroom.,1379
+Is she cleaning her desk?,1380
+We are walking along the beach.,1381
+We are not walking in the forest.,1382
+Are we walking along the beach?,1383
+They are running in the park.,1384
+They are not running on the street.,1385
+Are they running in the park?,1386
+I am talking to my brother.,1387
+I am not talking to my sister.,1388
+Am I talking to my brother?,1389
+You are listening to your favorite song.,1390
+You are not listening to the news.,1391
+Are you listening to your favorite song?,1392
+He is waiting for his friend outside.,1393
+He is not waiting for his brother.,1394
+Is he waiting for his friend outside?,1395
+She is looking at the pictures.,1396
+She is not looking at the videos.,1397
+Is she looking at the pictures?,1398
+We are studying English together.,1399
+We are not studying English alone.,1400
+I am doing my homework now.,1401
+I am not doing my homework at school.,1402
+Am I doing my homework now?,1403
+You are learning new words today.,1404
+You are not learning new grammar rules today.,1405
+Are you learning new words today?,1406
+He is talking with his friends.,1407
+He is not talking with his teacher.,1408
+Is he talking with his friends?,1409
+She is waiting for her parents.,1410
+She is not waiting for her brother.,1411
+Is she waiting for her parents?,1412
+We are working together on a project.,1413
+We are not working on the old project.,1414
+Are we working together on a project?,1415
+They are studying for their exams.,1416
+They are not studying for their final exams.,1417
+Are they studying for their exams?,1418
+I am making a cup of tea.,1419
+I am not making coffee.,1420
+Am I making a cup of tea?,1421
+You are opening the window.,1422
+You are not opening the door.,1423
+Are you opening the window?,1424
+He is closing the curtains.,1425
+He is not closing the window.,1426
+Is he closing the curtains?,1427
+She is carrying a small bag.,1428
+She is not carrying a large suitcase.,1429
+Is she carrying a small bag?,1430
+We are buying some food.,1431
+We are not buying any clothes.,1432
+Are we buying some food?,1433
+They are selling their old car.,1434
+They are not selling their house.,1435
+Are they selling their old car?,1436
+I am sending a message to my friend.,1437
+I am not sending an email to my teacher.,1438
+Am I sending a message to my friend?,1439
+You are checking your answers.,1440
+You are not checking the questions.,1441
+Are you checking your answers?,1442
+He is fixing the door.,1443
+He is not fixing the window.,1444
+Is he fixing the door?,1445
+She is preparing breakfast for her family.,1446
+She is not preparing dinner.,1447
+Is she preparing breakfast for her family?,1448
+We are getting ready for school.,1449
+We are not getting ready for work.,1450
+I am speaking English with my friend.,1451
+I am not speaking Turkish now.,1452
+Am I speaking English with my friend?,1453
+You are reading a short story.,1454
+You are not reading a long novel.,1455
+Are you reading a short story?,1456
+He is writing a new sentence.,1457
+He is not writing a long paragraph.,1458
+Is he writing a new sentence?,1459
+She is learning new words.,1460
+She is not learning new grammar today.,1461
+Is she learning new words?,1462
+We are practicing English together.,1463
+We are not practicing French today.,1464
+Are we practicing English together?,1465
+They are watching a movie at home.,1466
+They are not watching television outside.,1467
+Are they watching a movie at home?,1468
+I am listening to an English lesson.,1469
+I am not listening to music.,1470
+Am I listening to an English lesson?,1471
+You are writing in your notebook.,1472
+You are not writing on the board.,1473
+Are you writing in your notebook?,1474
+He is reading the instructions.,1475
+He is not reading the answers.,1476
+Is he reading the instructions?,1477
+She is answering the questions.,1478
+She is not answering the phone.,1479
+Is she answering the questions?,1480
+We are learning English every day.,1481
+We are not learning another language today.,1482
+Are we learning English every day?,1483
+They are working on a new project.,1484
+They are not working on the old project.,1485
+Are they working on a new project?,1486
+I am improving my English.,1487
+I am not improving my English alone.,1488
+Am I improving my English?,1489
+You are making progress every day.,1490
+You are not making the same mistakes.,1491
+Are you making progress every day?,1492
+He is trying to speak more clearly.,1493
+He is not trying to speak too quickly.,1494
+Is he trying to speak more clearly?,1495
+She is practicing new sentences.,1496
+She is not practicing difficult sentences.,1497
+Is she practicing new sentences?,1498
+We are continuing our English practice.,1499
+We are not stopping our English practice.,1500
+I worked at home yesterday.,1501
+I didn’t work at home yesterday.,1502
+Did I work at home yesterday?,1503
+You visited your grandparents last weekend.,1504
+You didn’t visit your friends last weekend.,1505
+Did you visit your grandparents last weekend?,1506
+He watched a movie last night.,1507
+He didn’t watch television yesterday.,1508
+Did he watch a movie last night?,1509
+She cleaned her room this morning.,1510
+She didn’t clean the kitchen.,1511
+Did she clean her room this morning?,1512
+We studied English yesterday.,1513
+We didn’t study French yesterday.,1514
+Did we study English yesterday?,1515
+They played football after school.,1516
+They didn’t play basketball.,1517
+Did they play football after school?,1518
+I walked to the store yesterday.,1519
+I didn’t walk to work.,1520
+Did I walk to the store yesterday?,1521
+You listened to music last night.,1522
+You didn’t listen to the radio.,1523
+Did you listen to music last night?,1524
+He opened the window in the morning.,1525
+He didn’t open the door.,1526
+Did he open the window in the morning?,1527
+She closed the door before dinner.,1528
+She didn’t close the window.,1529
+Did she close the door before dinner?,1530
+We cooked dinner together.,1531
+We didn’t cook lunch.,1532
+Did we cook dinner together?,1533
+They washed the car on Saturday.,1534
+They didn’t wash the bicycle.,1535
+Did they wash the car on Saturday?,1536
+I called my friend yesterday.,1537
+I didn’t call my brother.,1538
+Did I call my friend yesterday?,1539
+You helped your mother last weekend.,1540
+You didn’t help your father.,1541
+Did you help your mother last weekend?,1542
+He started work at eight yesterday.,1543
+He didn’t start work at nine.,1544
+Did he start work at eight yesterday?,1545
+She finished her homework before dinner.,1546
+She didn’t finish her project.,1547
+Did she finish her homework before dinner?,1548
+We arrived at the station early.,1549
+We didn’t arrive late.,1550
+They arrived at the airport early.,1551
+They didn’t arrive at the airport late.,1552
+Did they arrive at the airport early?,1553
+I stayed at home last night.,1554
+I didn’t stay at home yesterday afternoon.,1555
+Did I stay at home last night?,1556
+You played tennis with your friends.,1557
+You didn’t play football yesterday.,1558
+Did you play tennis with your friends?,1559
+He visited a museum last Saturday.,1560
+He didn’t visit the art gallery.,1561
+Did he visit a museum last Saturday?,1562
+She traveled to Ankara last month.,1563
+She didn’t travel to Istanbul last month.,1564
+Did she travel to Ankara last month?,1565
+We watched a documentary last night.,1566
+We didn’t watch a comedy.,1567
+Did we watch a documentary last night?,1568
+They talked about their holiday yesterday.,1569
+They didn’t talk about work.,1570
+Did they talk about their holiday yesterday?,1571
+I listened to an English podcast yesterday.,1572
+I didn’t listen to music in the morning.,1573
+Did I listen to an English podcast yesterday?,1574
+You answered all the questions correctly.,1575
+You didn’t answer the last question.,1576
+Did you answer all the questions correctly?,1577
+He opened his email in the morning.,1578
+He didn’t open the attachment.,1579
+Did he open his email in the morning?,1580
+She closed the shop at eight.,1581
+She didn’t close the office early.,1582
+Did she close the shop at eight?,1583
+We prepared breakfast together.,1584
+We didn’t prepare lunch.,1585
+Did we prepare breakfast together?,1586
+They cleaned the house on Sunday.,1587
+They didn’t clean the garage.,1588
+Did they clean the house on Sunday?,1589
+I changed my plans yesterday.,1590
+I didn’t change my schedule.,1591
+Did I change my plans yesterday?,1592
+You checked your email before work.,1593
+You didn’t check your messages.,1594
+Did you check your email before work?,1595
+He carried the boxes upstairs.,1596
+He didn’t carry the heavy table.,1597
+Did he carry the boxes upstairs?,1598
+She practiced English for two hours.,1599
+She didn’t practice English in the morning.,1600
+I went to the market yesterday.,1601
+I didn’t go to the supermarket.,1602
+Did I go to the market yesterday?,1603
+You came home late last night.,1604
+You didn’t come home alone.,1605
+Did you come home late last night?,1606
+He saw his old teacher yesterday.,1607
+He didn’t see his classmates.,1608
+Did he see his old teacher yesterday?,1609
+She heard a strange noise last night.,1610
+She didn’t hear the alarm.,1611
+Did she hear a strange noise last night?,1612
+We found a quiet restaurant near the hotel.,1613
+We didn’t find a cheap restaurant.,1614
+Did we find a quiet restaurant near the hotel?,1615
+They gave me some useful advice.,1616
+They didn’t give me any money.,1617
+Did they give you some useful advice?,1618
+I got a new computer last week.,1619
+I didn’t get a new phone.,1620
+Did I get a new computer last week?,1621
+You made breakfast for your family.,1622
+You didn’t make lunch.,1623
+Did you make breakfast for your family?,1624
+He took the bus to work yesterday.,1625
+He didn’t take the train.,1626
+Did he take the bus to work yesterday?,1627
+She wrote an email to her manager.,1628
+She didn’t write a letter.,1629
+Did she write an email to her manager?,1630
+We read an interesting book last month.,1631
+We didn’t read the newspaper.,1632
+Did we read an interesting book last month?,1633
+They spoke English during the meeting.,1634
+They didn’t speak German.,1635
+Did they speak English during the meeting?,1636
+I ate breakfast at seven.,1637
+I didn’t eat lunch at home.,1638
+Did I eat breakfast at seven?,1639
+You drank coffee before work.,1640
+You didn’t drink tea.,1641
+Did you drink coffee before work?,1642
+He bought a new jacket last weekend.,1643
+He didn’t buy new shoes.,1644
+Did he buy a new jacket last weekend?,1645
+She brought some food to the party.,1646
+She didn’t bring any drinks.,1647
+Did she bring some food to the party?,1648
+We left the house at eight.,1649
+We didn’t leave early.,1650
+I had breakfast at seven yesterday.,1651
+I didn’t have breakfast at home.,1652
+Did I have breakfast at seven yesterday?,1653
+You had a busy day yesterday.,1654
+You didn’t have much free time.,1655
+Did you have a busy day yesterday?,1656
+He left work early yesterday.,1657
+He didn’t leave the office late.,1658
+Did he leave work early yesterday?,1659
+She felt tired after the journey.,1660
+She didn’t feel well in the morning.,1661
+Did she feel tired after the journey?,1662
+We kept our tickets after the concert.,1663
+We didn’t keep the old documents.,1664
+Did we keep our tickets after the concert?,1665
+They put their bags under the table.,1666
+They didn’t put their coats there.,1667
+Did they put their bags under the table?,1668
+I met my old friend at the station.,1669
+I didn’t meet my teacher there.,1670
+Did I meet my old friend at the station?,1671
+You sent me a message yesterday.,1672
+You didn’t send me an email.,1673
+Did you send me a message yesterday?,1674
+He told me the truth.,1675
+He didn’t tell me the whole story.,1676
+Did he tell you the truth?,1677
+She thought about the problem carefully.,1678
+She didn’t think about it for long.,1679
+Did she think about the problem carefully?,1680
+We understood the instructions.,1681
+We didn’t understand the last part.,1682
+Did we understand the instructions?,1683
+They knew the answer.,1684
+They didn’t know the exact time.,1685
+Did they know the answer?,1686
+I found my keys under the sofa.,1687
+I didn’t find my wallet there.,1688
+Did I find my keys under the sofa?,1689
+You forgot your umbrella at home.,1690
+You didn’t forget your phone.,1691
+Did you forget your umbrella at home?,1692
+He brought his laptop to the meeting.,1693
+He didn’t bring his charger.,1694
+Did he bring his laptop to the meeting?,1695
+She read the whole book last week.,1696
+She didn’t read the last chapter.,1697
+Did she read the whole book last week?,1698
+We wrote our names on the list.,1699
+We didn’t write our addresses on the list.,1700
+I saw an interesting film last night.,1701
+I didn’t see the beginning of the film.,1702
+Did I see an interesting film last night?,1703
+You went to the library after school.,1704
+You didn’t go to the bookstore.,1705
+Did you go to the library after school?,1706
+He came home after work.,1707
+He didn’t come home before six.,1708
+Did he come home after work?,1709
+She got a message from her friend.,1710
+She didn’t get an email from her teacher.,1711
+Did she get a message from her friend?,1712
+We made a cake for the party.,1713
+We didn’t make any sandwiches.,1714
+Did we make a cake for the party?,1715
+They took many photos during the trip.,1716
+They didn’t take any videos.,1717
+Did they take many photos during the trip?,1718
+I gave my brother a book.,1719
+I didn’t give him my old phone.,1720
+Did I give my brother a book?,1721
+You found some money on the street.,1722
+You didn’t find any documents.,1723
+Did you find some money on the street?,1724
+He bought some fresh vegetables.,1725
+He didn’t buy any meat.,1726
+Did he buy some fresh vegetables?,1727
+She brought her camera to the trip.,1728
+She didn’t bring her laptop.,1729
+Did she bring her camera to the trip?,1730
+We drank coffee at a small café.,1731
+We didn’t drink tea there.,1732
+Did we drink coffee at a small café?,1733
+They ate dinner at eight.,1734
+They didn’t eat at home.,1735
+Did they eat dinner at eight?,1736
+I spoke to my manager yesterday.,1737
+I didn’t speak to my colleagues.,1738
+Did I speak to my manager yesterday?,1739
+You heard a strange sound outside.,1740
+You didn’t hear anything inside the house.,1741
+Did you hear a strange sound outside?,1742
+He left his bag on the train.,1743
+He didn’t leave his coat there.,1744
+Did he leave his bag on the train?,1745
+She wrote a long message to her friend.,1746
+She didn’t write an email to her teacher.,1747
+Did she write a long message to her friend?,1748
+We had a great time at the party.,1749
+We didn’t have enough time to talk.,1750
+I felt happy after the good news.,1751
+I didn’t feel tired after the walk.,1752
+Did I feel happy after the good news?,1753
+You kept the receipt in your wallet.,1754
+You didn’t keep the old ticket.,1755
+Did you keep the receipt in your wallet?,1756
+He put his phone on the desk.,1757
+He didn’t put his keys on the table.,1758
+Did he put his phone on the desk?,1759
+She met her friends at the café.,1760
+She didn’t meet them at the restaurant.,1761
+Did she meet her friends at the café?,1762
+We sent the documents yesterday.,1763
+We didn’t send the report last week.,1764
+Did we send the documents yesterday?,1765
+They told us about their plans.,1766
+They didn’t tell us the whole story.,1767
+Did they tell you about their plans?,1768
+I understood the question immediately.,1769
+I didn’t understand the last sentence.,1770
+Did I understand the question immediately?,1771
+You knew the answer from the beginning.,1772
+You didn’t know the exact number.,1773
+Did you know the answer from the beginning?,1774
+He forgot his password again.,1775
+He didn’t forget his username.,1776
+Did he forget his password again?,1777
+She read the instructions carefully.,1778
+She didn’t read the final page.,1779
+Did she read the instructions carefully?,1780
+We wrote a short report about the project.,1781
+We didn’t write a long report.,1782
+Did we write a short report about the project?,1783
+They drove to the city yesterday.,1784
+They didn’t drive to the village.,1785
+Did they drive to the city yesterday?,1786
+I slept for eight hours last night.,1787
+I didn’t sleep well yesterday.,1788
+Did I sleep for eight hours last night?,1789
+You woke up early this morning.,1790
+You didn’t wake up late.,1791
+Did you wake up early this morning?,1792
+He began his new job last month.,1793
+He didn’t begin the project immediately.,1794
+Did he begin his new job last month?,1795
+She became a teacher after university.,1796
+She didn’t become a manager immediately.,1797
+Did she become a teacher after university?,1798
+We learned many new words yesterday.,1799
+We didn’t learn any difficult grammar.,1800
+I was reading a book when you called me.,1801
+I wasn’t reading a newspaper when you called me.,1802
+Was I reading a book when you called me?,1803
+You were watching television when I arrived.,1804
+You weren’t watching a movie when I arrived.,1805
+Were you watching television when I arrived?,1806
+He was working when his friend visited him.,1807
+He wasn’t working when his manager called.,1808
+Was he working when his friend visited him?,1809
+She was cooking dinner when the phone rang.,1810
+She wasn’t cooking lunch when I arrived.,1811
+Was she cooking dinner when the phone rang?,1812
+We were studying when the teacher came into the classroom.,1813
+We weren’t studying when the bell rang.,1814
+Were we studying when the teacher came into the classroom?,1815
+They were playing football when it started to rain.,1816
+They weren’t playing basketball when the rain started.,1817
+Were they playing football when it started to rain?,1818
+I was walking home when I saw an old friend.,1819
+I wasn’t walking to school when you saw me.,1820
+Was I walking home when I saw an old friend?,1821
+You were driving when I sent you a message.,1822
+You weren’t driving when I called you.,1823
+Were you driving when I sent you a message?,1824
+He was sleeping when the alarm rang.,1825
+He wasn’t sleeping when his mother came home.,1826
+Was he sleeping when the alarm rang?,1827
+She was writing an email when her computer stopped.,1828
+She wasn’t writing a report when the manager arrived.,1829
+Was she writing an email when her computer stopped?,1830
+We were having dinner when our friends arrived.,1831
+We weren’t having breakfast when they called.,1832
+Were we having dinner when our friends arrived?,1833
+They were traveling when they received the news.,1834
+They weren’t traveling when the problem happened.,1835
+Were they traveling when they received the news?,1836
+I was listening to music when you opened the door.,1837
+I wasn’t listening to the radio when you came in.,1838
+Was I listening to music when you opened the door?,1839
+You were talking to your friend when the teacher entered.,1840
+You weren’t talking to your teacher at that moment.,1841
+Were you talking to your friend when the teacher entered?,1842
+He was taking a shower when the phone rang.,1843
+He wasn’t taking a bath when you arrived.,1844
+Was he taking a shower when the phone rang?,1845
+She was cleaning the kitchen when her guests arrived.,1846
+She wasn’t cleaning the bedroom at that time.,1847
+Was she cleaning the kitchen when her guests arrived?,1848
+We were waiting for the bus when it started raining.,1849
+We weren’t waiting for a taxi when the bus arrived.,1850
+I was walking through the park when I found a wallet.,1851
+I wasn’t carrying an umbrella that morning.,1852
+Were you waiting for the bus when the rain started?,1853
+You were studying in your room when your friend arrived.,1854
+You weren’t using your computer at that moment.,1855
+Was your brother sleeping when you came home?,1856
+He was driving to work when he heard the news.,1857
+He wasn’t listening to music during the journey.,1858
+Was he talking to his manager when you called?,1859
+She was preparing breakfast when the doorbell rang.,1860
+She wasn’t wearing her coat inside the house.,1861
+Was she waiting for her guests at the time?,1862
+We were having coffee when our teacher entered the café.,1863
+We weren’t discussing the new project then.,1864
+Were you sitting near the window when they arrived?,1865
+They were playing football when the weather changed.,1866
+They weren’t wearing jackets because it was warm.,1867
+Was the team practicing when you saw them?,1868
+I was reading an interesting article when I received your message.,1869
+I wasn’t checking my email at that time.,1870
+Were you writing a report when I sent the file?,1871
+You were cooking dinner when I visited you.,1872
+You weren’t preparing dessert that evening.,1873
+Was your sister helping you in the kitchen?,1874
+He was repairing his bicycle when his phone rang.,1875
+He wasn’t wearing his work clothes then.,1876
+Was he using the garage when you arrived?,1877
+She was talking to her mother when I saw her.,1878
+She wasn’t waiting for the train at that moment.,1879
+Was she walking home when the rain began?,1880
+We were watching a documentary when the electricity went off.,1881
+We weren’t watching television before dinner.,1882
+Were your parents sleeping when the storm started?,1883
+They were traveling through the countryside when they saw a beautiful lake.,1884
+They weren’t staying at a hotel that night.,1885
+Were they driving toward the city when you met them?,1886
+I was cleaning my room when I found an old photograph.,1887
+I wasn’t looking for anything special that afternoon.,1888
+Were you organizing your books when the teacher called?,1889
+You were waiting outside when I opened the door.,1890
+You weren’t standing near the entrance.,1891
+Was your friend carrying a large bag?,1892
+He was working late when his computer suddenly stopped.,1893
+He wasn’t expecting any visitors that evening.,1894
+Was he trying to fix the computer when you left?,1895
+She was reading a novel when her friend called.,1896
+She wasn’t studying for an exam that night.,1897
+Was she listening to music while she was reading?,1898
+We were walking along the beach when we saw the sunset.,1899
+We weren’t planning to stay outside for long.,1900
+I was looking for my keys when I found an old photo.,1901
+I wasn’t thinking about my work at that moment.,1902
+Were you walking home when you saw the accident?,1903
+You were waiting in the garden when I arrived.,1904
+You weren’t talking to anyone outside.,1905
+Was your friend reading a book when you called?,1906
+He was washing his car when it started to rain.,1907
+He wasn’t working in the garage that afternoon.,1908
+Was he planning to go somewhere that evening?,1909
+She was making dinner when her brother came home.,1910
+She wasn’t using the oven at that time.,1911
+Was she preparing something special for dinner?,1912
+We were discussing the lesson when the bell rang.,1913
+We weren’t talking about the exam.,1914
+Were the students taking notes during the lesson?,1915
+They were walking around the city when they found a small café.,1916
+They weren’t looking for a restaurant.,1917
+Were they staying near the city center?,1918
+I was checking my messages when the phone stopped working.,1919
+I wasn’t expecting an important call.,1920
+Were you using your phone when the battery died?,1921
+You were reading the instructions when I entered the room.,1922
+You weren’t writing anything at that time.,1923
+Was your computer showing the correct information?,1924
+He was talking to his manager when I saw him.,1925
+He wasn’t discussing his holiday plans.,1926
+Was he waiting for an answer from his manager?,1927
+She was shopping when she met an old friend.,1928
+She wasn’t buying anything expensive.,1929
+Was she looking for a new jacket?,1930
+We were having breakfast when the door opened.,1931
+We weren’t expecting any visitors.,1932
+Were your children sleeping upstairs?,1933
+They were playing cards when their parents came home.,1934
+They weren’t watching television.,1935
+Were they sitting in the living room?,1936
+I was walking to the station when I lost my ticket.,1937
+I wasn’t carrying much money with me.,1938
+Were you waiting for the train when I called?,1939
+You were working on your project when the teacher arrived.,1940
+You weren’t using the old computer.,1941
+Was your partner helping you with the project?,1942
+He was taking photos when the sun disappeared behind the clouds.,1943
+He wasn’t using his camera before the trip.,1944
+Was he traveling alone that day?,1945
+She was cleaning the house when she found some money.,1946
+She wasn’t looking for anything in the cupboard.,1947
+Was she preparing the house for the guests?,1948
+We were driving home when we heard the news.,1949
+We weren’t listening to the radio at that moment.,1950
+I was walking home when I noticed a strange light.,1951
+I wasn’t looking at my phone during the walk.,1952
+Did you see the strange light from your window?,1953
+You were having breakfast when I called you.,1954
+You weren’t sitting at the kitchen table.,1955
+Was your brother preparing breakfast at that time?,1956
+He was waiting for the bus when he met his neighbor.,1957
+He wasn’t carrying his backpack that morning.,1958
+Did he take the bus after he met his neighbor?,1959
+She was studying in the library when the lights went out.,1960
+She wasn’t using her laptop at that moment.,1961
+Did she continue studying after the lights came back?,1962
+We were driving through the mountains when we saw some snow.,1963
+We weren’t traveling very fast because the road was wet.,1964
+Did you take any photos during the journey?,1965
+They were having dinner when their friends arrived.,1966
+They weren’t expecting guests that evening.,1967
+Did they invite their friends to stay for dinner?,1968
+I was writing a report when my computer suddenly stopped.,1969
+I wasn’t saving the document regularly.,1970
+Did you lose any important information?,1971
+You were talking to your teacher when I entered the classroom.,1972
+You weren’t discussing the homework.,1973
+Did your teacher give you some advice?,1974
+He was fixing the kitchen sink when his neighbor knocked on the door.,1975
+He wasn’t wearing his usual work clothes.,1976
+Did his neighbor help him with the repair?,1977
+She was walking in the park when she found a small dog.,1978
+She wasn’t carrying any food with her.,1979
+Did she take the dog home?,1980
+We were watching a movie when the electricity went off.,1981
+We weren’t sitting in the living room at first.,1982
+Did you finish the movie later?,1983
+They were traveling by train when they received the message.,1984
+They weren’t planning to arrive that evening.,1985
+Did they change their plans after the message?,1986
+I was cleaning my desk when I found an old notebook.,1987
+I wasn’t searching for anything at the time.,1988
+Did you keep your old notebooks?,1989
+You were waiting outside when the shop opened.,1990
+You weren’t standing near the main entrance.,1991
+Did you enter the shop immediately?,1992
+He was reading the newspaper when his daughter came home.,1993
+He wasn’t watching television that evening.,1994
+Did he tell his daughter the news?,1995
+She was preparing her presentation when her colleague called.,1996
+She wasn’t working on the introduction at that moment.,1997
+Did she finish the presentation before the meeting?,1998
+We were walking along the beach when the sun began to set.,1999
+We weren’t planning to stay outside after sunset.,2000
+I will call my friend tonight.,2001
+I won’t stay at home all evening.,2002
+Will you visit your parents this weekend?,2003
+You will learn many new words this year.,2004
+You won’t forget these expressions easily.,2005
+Will you practice English tomorrow?,2006
+He will start a new job next month.,2007
+He won’t work at the old office anymore.,2008
+Will he move to another city?,2009
+She will visit her grandmother on Sunday.,2010
+She won’t stay there all day.,2011
+Will she take the train?,2012
+We will have dinner together tonight.,2013
+We won’t eat at the restaurant this evening.,2014
+Will we cook something at home?,2015
+They will travel to Spain next summer.,2016
+They won’t stay in Madrid for the whole trip.,2017
+Will they visit Barcelona?,2018
+I am going to buy a new computer.,2019
+I am not going to buy a new phone.,2020
+Are you going to buy a new computer?,2021
+You are going to study English this evening.,2022
+You aren’t going to study German tonight.,2023
+Are you going to study English after dinner?,2024
+He is going to repair his bicycle tomorrow.,2025
+He isn’t going to repair the car himself.,2026
+Is he going to use new tools?,2027
+She is going to prepare a cake for the party.,2028
+She isn’t going to make any sandwiches.,2029
+Is she going to invite her neighbors?,2030
+We are going to clean the house tomorrow.,2031
+We aren’t going to clean the garage.,2032
+Are we going to paint the kitchen too?,2033
+They are going to move to a bigger apartment.,2034
+They aren’t going to sell their old furniture yet.,2035
+Are they going to move next month?,2036
+I will help you with your homework.,2037
+I won’t finish the whole project tonight.,2038
+Will your brother help you tomorrow?,2039
+You will feel better after some rest.,2040
+You won’t need to work late tonight.,2041
+Will you take a short break?,2042
+He will probably arrive before lunch.,2043
+He won’t arrive very early.,2044
+Will he bring the documents with him?,2045
+She is going to meet her friends after work.,2046
+She isn’t going to stay out very late.,2047
+Is she going to eat dinner with them?,2048
+We will probably see them next week.,2049
+We won’t make any final decisions today.,2050
+I will call my sister tomorrow.,2051
+I won’t use my phone during dinner.,2052
+Will you meet your friend after work?,2053
+He will buy some food on his way home.,2054
+He won’t take the bus tomorrow morning.,2055
+Will he drive to work instead?,2056
+She will finish her homework tonight.,2057
+She isn’t going to watch TV before dinner.,2058
+Is she going to study for the exam later?,2059
+We will visit the museum on Saturday.,2060
+We won’t stay there for very long.,2061
+Are we going to have lunch nearby?,2062
+They are going to move next year.,2063
+They aren’t going to leave the city completely.,2064
+Will they find a bigger house?,2065
+I am going to clean my room this evening.,2066
+I won’t clean the windows today.,2067
+Will you help me with the furniture?,2068
+You will enjoy this movie.,2069
+You aren’t going to watch it alone.,2070
+Are you going to watch it with your family?,2071
+My father will make breakfast tomorrow.,2072
+My mother won’t cook dinner tonight.,2073
+Will your parents eat at home?,2074
+He is going to start exercising next week.,2075
+He won’t exercise every morning.,2076
+Is he going to join a gym?,2077
+She will send the email later.,2078
+She isn’t going to send the documents today.,2079
+Will she call the manager first?,2080
+We are going to paint the living room.,2081
+We won’t change the furniture yet.,2082
+Are we going to choose a new color?,2083
+They will arrive in the afternoon.,2084
+They won’t stay until midnight.,2085
+Will they bring their children with them?,2086
+I am going to learn some new words tonight.,2087
+I won’t study for more than an hour.,2088
+Will you practice these words tomorrow?,2089
+He will probably need some help.,2090
+He isn’t going to do the whole job alone.,2091
+Will his brother work with him?,2092
+She is going to prepare dinner for everyone.,2093
+She won’t make anything too difficult.,2094
+Is she going to make a cake too?,2095
+We will probably travel next summer.,2096
+We aren’t going to stay in the same hotel.,2097
+Will we visit another country this time?,2098
+I will continue studying English every day.,2099
+I am going to use these sentences for regular practice.,2100
+I will visit my uncle next weekend.,2101
+I won’t stay at his house tonight.,2102
+Will you call your uncle tomorrow?,2103
+She is going to buy a new dress.,2104
+She isn’t going to wear it today.,2105
+Is she going to wear it to the party?,2106
+He will clean his car tomorrow.,2107
+He won’t wash it before work.,2108
+Will he clean the inside too?,2109
+We are going to have breakfast early.,2110
+We aren’t going to leave before seven.,2111
+Will we take the train to the city?,2112
+They will play football this afternoon.,2113
+They won’t play in the rain.,2114
+Are they going to use the new field?,2115
+I am going to cook pasta tonight.,2116
+I won’t make a big dinner.,2117
+Will you prepare the salad?,2118
+You will need a warm jacket tomorrow.,2119
+You aren’t going to stay outside for long.,2120
+Are you going to walk home after school?,2121
+My brother will start university next year.,2122
+He won’t live with us forever.,2123
+Is he going to study engineering?,2124
+My daughter is going to read a new book.,2125
+She isn’t going to finish it tonight.,2126
+Will she take the book to school?,2127
+We will meet our neighbors this evening.,2128
+We aren’t going to stay outside very late.,2129
+Are we going to have coffee together?,2130
+He is going to repair the computer.,2131
+He won’t replace all the parts.,2132
+Will he finish the repair today?,2133
+She will probably arrive early tomorrow.,2134
+She isn’t going to take a taxi.,2135
+Will she come by bus?,2136
+I am going to organize my desk.,2137
+I won’t throw away my old notebooks.,2138
+Will you help me move the books?,2139
+They will visit their grandparents on Sunday.,2140
+They aren’t going to stay for dinner.,2141
+Are they going to bring some flowers?,2142
+You are going to learn this grammar quickly.,2143
+You won’t need much time for this exercise.,2144
+Will you practice the sentences again tomorrow?,2145
+We will probably watch a film tonight.,2146
+We aren’t going to watch television all evening.,2147
+Will we order some food?,2148
+I am going to make a plan for next week.,2149
+I will follow the plan every day.,2150
+I will wake up early tomorrow.,2151
+I won’t drink coffee before breakfast.,2152
+Will you go for a walk in the morning?,2153
+She is going to visit the dentist next week.,2154
+She isn’t going to go there alone.,2155
+Is she going to take the bus?,2156
+He will bring his laptop to work.,2157
+He won’t use his old computer anymore.,2158
+Will he buy a new one soon?,2159
+We are going to spend the weekend at home.,2160
+We aren’t going to invite many people.,2161
+Will we cook something special?,2162
+They will start the meeting at nine.,2163
+They won’t finish it before lunch.,2164
+Are they going to discuss the new project?,2165
+I am going to buy some vegetables.,2166
+I won’t buy any meat today.,2167
+Will you come to the market with me?,2168
+You will feel tired after the long trip.,2169
+You aren’t going to sleep on the plane.,2170
+Are you going to read a book during the flight?,2171
+My father is going to fix the door.,2172
+He won’t paint it today.,2173
+Will he repair the window too?,2174
+My mother will make some tea.,2175
+She isn’t going to make coffee this time.,2176
+Will she prepare something to eat?,2177
+We are going to study together tomorrow.,2178
+We won’t study all afternoon.,2179
+Are we going to practice these sentences?,2180
+He will probably call you tonight.,2181
+He isn’t going to visit us this weekend.,2182
+Will he explain the situation later?,2183
+She is going to buy a birthday gift.,2184
+She won’t buy anything expensive.,2185
+Is she going to choose a book?,2186
+They will travel by train next month.,2187
+They aren’t going to stay in the capital.,2188
+Will they visit the countryside too?,2189
+I am going to wash my clothes tonight.,2190
+I won’t iron everything today.,2191
+Will you help me with the laundry?,2192
+You will probably enjoy the trip.,2193
+You aren’t going to spend much money there.,2194
+Are you going to take many photos?,2195
+We will have a busy week.,2196
+We aren’t going to work every evening.,2197
+Will we have some free time?,2198
+I am going to practice English tomorrow morning.,2199
+I will learn more useful expressions this week.,2200
+My car is faster than yours.,2201
+This road is not safer than the other road.,2202
+Is your house bigger than mine?,2203
+Today is colder than yesterday.,2204
+This room isn’t warmer than the kitchen.,2205
+Is February colder than March?,2206
+This book is more interesting than that one.,2207
+The second movie isn’t more exciting than the first one.,2208
+Is this exercise easier than the last one?,2209
+My brother is taller than me.,2210
+My sister isn’t shorter than my cousin.,2211
+Is your father older than your mother?,2212
+This computer is cheaper than my old one.,2213
+That phone isn’t better than this model.,2214
+Is this laptop more powerful than yours?,2215
+English is easier for me than German.,2216
+Mathematics isn’t more difficult for me than physics.,2217
+Is Spanish easier than German?,2218
+This is the biggest room in the house.,2219
+This isn’t the smallest room in the building.,2220
+Is that the highest mountain in the area?,2221
+She is the fastest runner in our class.,2222
+He isn’t the youngest student in the group.,2223
+Who is the oldest person in your family?,2224
+This is the most comfortable chair here.,2225
+That sofa isn’t the most expensive piece of furniture.,2226
+Is this the most beautiful park in the city?,2227
+I have some money in my wallet.,2228
+I don’t have much time this morning.,2229
+Do you have enough water for the trip?,2230
+There are many books on the shelf.,2231
+There aren’t many people in the room.,2232
+Are there any clean cups in the kitchen?,2233
+We need some fresh vegetables.,2234
+We don’t need much sugar today.,2235
+Do we have enough rice for dinner?,2236
+She drinks a lot of water every day.,2237
+She doesn’t eat much bread at breakfast.,2238
+Does she eat many vegetables too?,2239
+There is a little milk in the fridge.,2240
+There isn’t much cheese on the table.,2241
+Is there enough food for everyone?,2242
+My new bag is lighter than my old bag.,2243
+My old bag wasn’t as comfortable as this one.,2244
+Is your new bag stronger than the old one?,2245
+This restaurant is better than the one near my house.,2246
+The food there isn’t as cheap as it looks.,2247
+Is this restaurant the best one in the area?,2248
+I have enough time to finish my work.,2249
+There are several useful examples in this lesson.,2250
+My car is faster.,2251
+This bike isn’t slower.,2252
+Is your car newer?,2253
+This box is heavier.,2254
+That bag isn’t lighter.,2255
+Is this box bigger?,2256
+She is taller than me.,2257
+He isn’t taller than Tom.,2258
+Is your brother taller?,2259
+Today is warmer.,2260
+Yesterday wasn’t warmer.,2261
+Is today colder?,2262
+This book is better.,2263
+That book isn’t better.,2264
+Is this book cheaper?,2265
+English is easier.,2266
+German isn’t easier.,2267
+Is Spanish easier?,2268
+This room is bigger.,2269
+That room isn’t smaller.,2270
+Is your room bigger?,2271
+She is the tallest.,2272
+He isn’t the tallest.,2273
+Who is the youngest?,2274
+This is the best restaurant.,2275
+That isn’t the worst restaurant.,2276
+Is this the cheapest restaurant?,2277
+I have some money.,2278
+I don’t have much money.,2279
+Do you have enough money?,2280
+We need some water.,2281
+We don’t need much water.,2282
+Do we need more water?,2283
+There are many chairs.,2284
+There aren’t many tables.,2285
+Are there enough chairs?,2286
+She has a lot of books.,2287
+She doesn’t have many pens.,2288
+Does she have enough paper?,2289
+I drink a little milk.,2290
+I don’t drink much juice.,2291
+Do you drink enough water?,2292
+He has some free time.,2293
+He doesn’t have much time.,2294
+Does he have enough time?,2295
+This phone is cheaper.,2296
+My old phone wasn’t better.,2297
+Is your phone faster?,2298
+We have many options.,2299
+We need more practice.,2300
+My new car is faster.,2301
+This road isn’t very wide.,2302
+Is your car more comfortable?,2303
+This bag is quite heavy.,2304
+That suitcase isn’t as big as mine.,2305
+Which bag is the lightest?,2306
+Today feels much warmer.,2307
+The morning wasn’t very cold.,2308
+Is the evening colder than this?,2309
+My sister is very tall.,2310
+My brother isn’t as tall as her.,2311
+Who is the tallest in your family?,2312
+This exercise looks easier.,2313
+The last exercise wasn’t so difficult.,2314
+Is this lesson more useful?,2315
+This phone is really cheap.,2316
+That model isn’t very expensive.,2317
+Which phone has the best camera?,2318
+I have some free time.,2319
+I don’t have much work today.,2320
+Do you have enough time for lunch?,2321
+We need more chairs.,2322
+We don’t need many tables.,2323
+Do we have enough seats?,2324
+There are several shops nearby.,2325
+There aren’t many restaurants here.,2326
+Are there any cafes nearby?,2327
+She drinks a lot of water.,2328
+She doesn’t drink much coffee.,2329
+Does she drink enough milk?,2330
+I have a little money.,2331
+I don’t have much cash.,2332
+Do you have enough money?,2333
+He has many useful books.,2334
+He doesn’t have many magazines.,2335
+Does he have any newspapers?,2336
+This room is more comfortable.,2337
+The kitchen isn’t very large.,2338
+Is the bedroom bigger than this room?,2339
+My new laptop is better.,2340
+My old laptop wasn’t very fast.,2341
+Is your laptop more powerful?,2342
+This is the best option.,2343
+That isn’t the cheapest option.,2344
+Which option is the most useful?,2345
+We have enough food for everyone.,2346
+We don’t need any more bread.,2347
+Do we need more drinks?,2348
+This book is more interesting than that one.,2349
+The final chapter is the most exciting.,2350
+My house is smaller now.,2351
+The garden isn’t very large.,2352
+Is your house bigger than mine?,2353
+This chair is more comfortable.,2354
+That sofa isn’t very soft.,2355
+Which chair is the most comfortable?,2356
+My new shoes are lighter.,2357
+These boots aren’t very comfortable.,2358
+Are your shoes cheaper than mine?,2359
+This street is quieter.,2360
+The main road isn’t very quiet.,2361
+Is your street safer at night?,2362
+This test is easier.,2363
+The last test wasn’t very easy.,2364
+Is this question more difficult?,2365
+I have some good ideas.,2366
+I don’t have many ideas today.,2367
+Do you have any new ideas?,2368
+There is some coffee here.,2369
+There isn’t much coffee left.,2370
+Is there enough coffee for everyone?,2371
+We have many clean glasses.,2372
+We don’t have many plates.,2373
+Do we need more plates?,2374
+She has a lot of clothes.,2375
+She doesn’t have much space.,2376
+Does she need a bigger wardrobe?,2377
+He has enough money.,2378
+He doesn’t have much free time.,2379
+Does he need more help?,2380
+This hotel is better.,2381
+The other hotel wasn’t very clean.,2382
+Is this hotel closer to the beach?,2383
+My room is warmer today.,2384
+The hallway isn’t very bright.,2385
+Is your room bigger than mine?,2386
+This computer is faster.,2387
+My old computer wasn’t very reliable.,2388
+Is this model more expensive?,2389
+She is the best student.,2390
+He isn’t the worst player.,2391
+Who is the fastest runner?,2392
+We need some fresh fruit.,2393
+We don’t need much sugar.,2394
+Do we have enough fruit?,2395
+They have several small boxes.,2396
+They don’t have many large boxes.,2397
+Do they need more boxes?,2398
+This is the most beautiful view.,2399
+That mountain looks higher than this one.,2400
+I can swim very well.,2401
+I can’t drive at night.,2402
+Can you speak English?,2403
+She can play the piano.,2404
+She can’t come today.,2405
+Can she help us tomorrow?,2406
+He could run very fast.,2407
+He couldn’t walk after the accident.,2408
+Could he finish the work alone?,2409
+We can meet after school.,2410
+We can’t stay very long.,2411
+Can we use this room?,2412
+They could see the mountain.,2413
+They couldn’t find the hotel.,2414
+Could they hear the music?,2415
+You should drink more water.,2416
+You shouldn’t eat too much sugar.,2417
+Should I call the doctor?,2418
+She should study tonight.,2419
+She shouldn’t stay up late.,2420
+Should she take a break?,2421
+He must wear a helmet.,2422
+He mustn’t touch the machine.,2423
+Must we finish this today?,2424
+We have to leave early.,2425
+We don’t have to hurry.,2426
+Do we have to pay now?,2427
+They have to wear uniforms.,2428
+They don’t have to work tomorrow.,2429
+Do they have to come early?,2430
+I can help you later.,2431
+I can’t carry this box alone.,2432
+Can you open the door?,2433
+She could speak French as a child.,2434
+She couldn’t understand the question.,2435
+Could she answer it correctly?,2436
+You should check your answer.,2437
+You shouldn’t worry too much.,2438
+Should we try again?,2439
+He must follow the rules.,2440
+He mustn’t enter this room.,2441
+Must he wear safety glasses?,2442
+We can finish this project.,2443
+We can’t finish it today.,2444
+Can we continue tomorrow?,2445
+They should arrive soon.,2446
+They shouldn’t be late.,2447
+Should they call us first?,2448
+I have to study tonight.,2449
+I don’t have to study tomorrow.,2450
+I can fix this computer.,2451
+I can’t open this file.,2452
+Can you check the cable?,2453
+She can cook very well.,2454
+She can’t cook today.,2455
+Can she prepare some tea?,2456
+He could read at five.,2457
+He couldn’t write his name.,2458
+Could he count to ten?,2459
+We can use this machine.,2460
+We can’t use it alone.,2461
+Can we ask the teacher?,2462
+They could hear the noise.,2463
+They couldn’t see anything.,2464
+Could they find the problem?,2465
+You should wear a jacket.,2466
+You shouldn’t skip breakfast.,2467
+Should I bring an umbrella?,2468
+She should call her mother.,2469
+She shouldn’t drive so fast.,2470
+Should she take a taxi?,2471
+He must clean his room.,2472
+He mustn’t use my computer.,2473
+Must he finish it today?,2474
+We have to follow the rules.,2475
+We don’t have to stay here.,2476
+Do we have to wait outside?,2477
+They have to wear helmets.,2478
+They don’t have to bring tools.,2479
+Do they have to wear gloves?,2480
+I can understand this lesson.,2481
+I can’t remember every word.,2482
+Can you explain this part?,2483
+She could swim when she was six.,2484
+She couldn’t ride a bike then.,2485
+Could she swim alone?,2486
+You should check the answer.,2487
+You shouldn’t copy other students.,2488
+Should we solve this together?,2489
+He must be careful here.,2490
+He mustn’t touch that wire.,2491
+Must he wear safety shoes?,2492
+We can finish the work.,2493
+We can’t finish it tonight.,2494
+Can we continue tomorrow morning?,2495
+They should arrive before noon.,2496
+They shouldn’t forget their tickets.,2497
+Should they bring some food?,2498
+I have to leave now.,2499
+I don’t have to work tomorrow.,2500
+I can use this tool.,2501
+I can’t lift that box.,2502
+Can you close the window?,2503
+She can speak clearly.,2504
+She can’t hear you well.,2505
+Can she join us later?,2506
+He could play football well.,2507
+He couldn’t run very far.,2508
+Could he play basketball too?,2509
+We can start the lesson.,2510
+We can’t make much noise.,2511
+Can we open the door?,2512
+They could solve the problem.,2513
+They couldn’t find the answer.,2514
+Could they try again?,2515
+You should sleep earlier.,2516
+You shouldn’t skip meals.,2517
+Should I take a break?,2518
+She should wear comfortable shoes.,2519
+She shouldn’t walk alone at night.,2520
+Should she call a friend?,2521
+He must follow the instructions.,2522
+He mustn’t press this button.,2523
+Must he wear protective gloves?,2524
+We have to finish the task.,2525
+We don’t have to finish today.,2526
+Do we have to stay here?,2527
+They have to arrive early.,2528
+They don’t have to bring food.,2529
+Do they have to bring water?,2530
+I can solve this question.,2531
+I can’t remember the answer.,2532
+Can you give me a hint?,2533
+She could dance very well.,2534
+She couldn’t sing loudly.,2535
+Could she play the guitar?,2536
+You should read this book.,2537
+You shouldn’t spend too much money.,2538
+Should we buy it today?,2539
+He must check the machine.,2540
+He mustn’t leave the door open.,2541
+Must he check the cables too?,2542
+We can meet after lunch.,2543
+We can’t meet on Monday.,2544
+Can we meet on Tuesday?,2545
+They should study harder.,2546
+They shouldn’t waste their time.,2547
+Should they study together?,2548
+I have to go home soon.,2549
+I don’t have to leave immediately.,2550
+I can carry this bag.,2551
+I can’t find my keys.,2552
+Can you help me?,2553
+She can speak three languages.,2554
+She can’t come this evening.,2555
+Can she call you tomorrow?,2556
+He could run very fast.,2557
+He couldn’t swim as a child.,2558
+Could he ride a bike?,2559
+We can start now.,2560
+We can’t wait any longer.,2561
+Can we sit here?,2562
+They could see the stars.,2563
+They couldn’t hear the teacher.,2564
+Could they understand the lesson?,2565
+You should drink more water.,2566
+You shouldn’t stay up late.,2567
+Should I open the window?,2568
+She should study harder.,2569
+She shouldn’t worry about it.,2570
+Should she ask the teacher?,2571
+He must wear a helmet.,2572
+He mustn’t touch that machine.,2573
+Must he use safety glasses?,2574
+We have to leave early.,2575
+We don’t have to hurry.,2576
+Do we have to wait here?,2577
+They have to wear uniforms.,2578
+They don’t have to work today.,2579
+Do they have to bring tools?,2580
+I can solve this problem.,2581
+I can’t understand this question.,2582
+Can you explain it again?,2583
+She could read very early.,2584
+She couldn’t write well then.,2585
+Could she understand the story?,2586
+You should check your work.,2587
+You shouldn’t make the same mistake.,2588
+Should we check the answer together?,2589
+He must follow the rules.,2590
+He mustn’t enter this room.,2591
+Must he wait outside?,2592
+We can finish the project today.,2593
+We can’t finish everything alone.,2594
+Can you join our team?,2595
+They should arrive before noon.,2596
+They shouldn’t forget their tickets.,2597
+Should they call us first?,2598
+I have to study tonight.,2599
+I don’t have to study tomorrow.,2600
+I have finished my work.,2601
+I haven't eaten lunch yet.,2602
+Have you seen this movie?,2603
+She has visited London twice.,2604
+She hasn't called her mother yet.,2605
+Has she finished the book?,2606
+He has lost his keys.,2607
+He hasn't found them yet.,2608
+Has he checked his car?,2609
+We have cleaned the kitchen.,2610
+We haven't cleaned the garage.,2611
+Have we finished everything?,2612
+They have arrived at school.,2613
+They haven't started the lesson.,2614
+Have they opened the door?,2615
+I have just had breakfast.,2616
+I haven't drunk any coffee today.,2617
+Have you had breakfast yet?,2618
+She has already left home.,2619
+She hasn't arrived at work.,2620
+Has she taken the bus?,2621
+He has worked here for years.,2622
+He hasn't changed his job yet.,2623
+Has he worked there before?,2624
+We have lived here since 2020.,2625
+We haven't moved to another city.,2626
+Have you lived here long?,2627
+They have bought a new car.,2628
+They haven't sold the old one.,2629
+Have they chosen a color?,2630
+I have read this book.,2631
+I haven't read the second book.,2632
+Have you read it before?,2633
+She has learned many new words.,2634
+She hasn't learned all the rules.,2635
+Has she practiced enough?,2636
+He has broken his phone.,2637
+He hasn't repaired it yet.,2638
+Has he bought a new phone?,2639
+We have watched that film.,2640
+We haven't watched the new one.,2641
+Have you watched it recently?,2642
+They have finished the project.,2643
+They haven't sent the report.,2644
+Have they checked the results?,2645
+I have never visited Spain.,2646
+I haven't traveled abroad recently.,2647
+Have you ever visited Italy?,2648
+She has just arrived home.,2649
+He has already finished dinner.,2650
+I have cleaned my room.,2651
+I haven't washed the windows yet.,2652
+Have you finished your homework?,2653
+She has bought a new bag.,2654
+She hasn't used it yet.,2655
+Has she paid for it?,2656
+He has lost his wallet.,2657
+He hasn't found it yet.,2658
+Has he checked his car?,2659
+We have visited that museum.,2660
+We haven't seen the new exhibition.,2661
+Have you visited the museum before?,2662
+They have moved to a new house.,2663
+They haven't unpacked everything.,2664
+Have they painted the rooms?,2665
+I have just finished lunch.,2666
+I haven't had any coffee today.,2667
+Have you eaten anything yet?,2668
+She has already called me.,2669
+She hasn't sent the message.,2670
+Has she answered your question?,2671
+He has worked here for five years.,2672
+He hasn't changed his job.,2673
+Has he worked here before?,2674
+We have lived here since 2021.,2675
+We haven't moved house since then.,2676
+Have you lived here long?,2677
+They have seen this film.,2678
+They haven't watched the new one.,2679
+Have they enjoyed the movie?,2680
+I have read three books this month.,2681
+I haven't read that book yet.,2682
+Have you read this story?,2683
+She has learned many new words.,2684
+She hasn't learned all the words.,2685
+Has she practiced them today?,2686
+He has broken his glasses.,2687
+He hasn't bought new ones.,2688
+Has he repaired his glasses?,2689
+We have finished the lesson.,2690
+We haven't started the next lesson.,2691
+Have you understood the topic?,2692
+They have arrived safely.,2693
+They haven't called us yet.,2694
+Have they reached the hotel?,2695
+I have never tried sushi.,2696
+I haven't traveled to Japan.,2697
+Have you ever tried sushi?,2698
+She has just come home.,2699
+He has already gone to bed.,2700
+I have visited London twice.,2701
+I visited London last year.,2702
+Have you ever visited London?,2703
+She has finished her work.,2704
+She finished it an hour ago.,2705
+Did she finish the report?,2706
+He has lost his keys.,2707
+He lost them yesterday.,2708
+Has he found his keys?,2709
+We have seen this movie.,2710
+We saw it last weekend.,2711
+Did you enjoy the movie?,2712
+They have bought a new car.,2713
+They bought it last month.,2714
+Have they sold their old car?,2715
+I have eaten breakfast.,2716
+I ate breakfast at eight.,2717
+Did you have breakfast today?,2718
+She has read this book.,2719
+She read it last summer.,2720
+Has she read the second book?,2721
+He has worked here for years.,2722
+He started this job in 2020.,2723
+Did he work there before?,2724
+We have lived here since 2021.,2725
+We moved here five years ago.,2726
+Have you lived here long?,2727
+They have already left.,2728
+They left ten minutes ago.,2729
+Did they leave early?,2730
+I have never tried sushi.,2731
+I tried pizza yesterday.,2732
+Have you ever tried sushi?,2733
+She has just arrived home.,2734
+She arrived twenty minutes ago.,2735
+Did she arrive alone?,2736
+He has cleaned his room.,2737
+He cleaned it this morning.,2738
+Has he cleaned the kitchen too?,2739
+We have visited that museum.,2740
+We visited it last year.,2741
+Did you like the museum?,2742
+They have finished the project.,2743
+They finished it on Monday.,2744
+Have they sent the report?,2745
+I have watched this series.,2746
+I watched it last month.,2747
+Did you watch the final episode?,2748
+She has learned many words.,2749
+She learned them at school.,2750
+I have visited several small villages.,2751
+We went there last summer.,2752
+Have you explored that area before?,2753
+She has changed her hairstyle.,2754
+She cut her hair yesterday.,2755
+Did your friend notice the change?,2756
+He has repaired the broken chair.,2757
+He fixed it this morning.,2758
+Has he painted it yet?,2759
+We have learned this grammar rule.,2760
+Our teacher explained it yesterday.,2761
+Did you understand the explanation?,2762
+They have opened a new shop.,2763
+The shop opened last Friday.,2764
+Have you been there recently?,2765
+I have forgotten his name.,2766
+I met him at school last week.,2767
+Did you remember his face?,2768
+She has written three emails today.,2769
+She sent the first email at noon.,2770
+Has she received a reply?,2771
+He has taken many photographs.,2772
+He bought his camera in June.,2773
+Did he take pictures yesterday?,2774
+We have made several changes.,2775
+We changed the plan last night.,2776
+Have you checked the new plan?,2777
+They have heard that song before.,2778
+They heard it on the radio yesterday.,2779
+Did you like the song?,2780
+I have lost my old notebook.,2781
+I used it during my first year.,2782
+Have you seen it anywhere?,2783
+She has met many interesting people.,2784
+She met a famous writer last year.,2785
+Did she talk to him?,2786
+He has broken another glass.,2787
+He dropped it in the kitchen.,2788
+Has he cleaned the floor?,2789
+We have tried several recipes.,2790
+We cooked a new dish yesterday.,2791
+Did everyone enjoy dinner?,2792
+They have traveled by train many times.,2793
+They took a night train last month.,2794
+Have you traveled by train recently?,2795
+I have improved my English.,2796
+I started this practice months ago.,2797
+Did you notice my progress?,2798
+She has just finished her homework.,2799
+She started it after dinner.,2800
+She usually walks to work.,2801
+I don't often drink coffee.,2802
+Do you sometimes study at night?,2803
+He speaks very quietly.,2804
+We aren't ready yet.,2805
+Can your brother drive a car?,2806
+They arrived early this morning.,2807
+She didn't answer my message.,2808
+Did you lock the door?,2809
+My sister enjoys reading novels.,2810
+I don't mind waiting here.,2811
+Do they like playing chess?,2812
+He decided to leave early.,2813
+We didn't plan to stay long.,2814
+Did she agree to help you?,2815
+Please open the window.,2816
+Don't touch that machine.,2817
+Could you pass me the salt?,2818
+This phone belongs to me.,2819
+That blue jacket is her.,2820
+Is this notebook yours?,2821
+I gave him my old dictionary.,2822
+She didn't tell us the reason.,2823
+Did they invite you to dinner?,2824
+We walked across the bridge.,2825
+He didn't wait outside the office.,2826
+Can you meet me near the station?,2827
+The children played happily together.,2828
+My father wasn't feeling well yesterday.,2829
+Why did your friend leave early?,2830
+She carefully checked the report.,2831
+I didn't completely understand the lesson.,2832
+How quickly can you finish it?,2833
+He is interested in learning languages.,2834
+They aren't afraid of making mistakes.,2835
+Are you good at solving problems?,2836
+I want to improve my pronunciation.,2837
+She doesn't want to change schools.,2838
+Would you like to join us?,2839
+We went shopping after lunch.,2840
+He didn't remember buying that book.,2841
+Did you remember to call her?,2842
+My teacher gave us useful advice.,2843
+I couldn't find my keys anywhere.,2844
+Where did you put the charger?,2845
+They live near the city center.,2846
+She doesn't work on Fridays.,2847
+Does your uncle live nearby?,2848
+We need to leave before sunset.,2849
+He forgot to bring his umbrella.,2850
+I usually check my email before breakfast.,2851
+She doesn't keep her phone on the table.,2852
+Do you often visit your grandparents?,2853
+He carefully opened the old box.,2854
+We didn't hear the announcement clearly.,2855
+Can you explain this word to me?,2856
+My brother enjoys cooking at weekends.,2857
+They don't like waiting in long lines.,2858
+Does your daughter enjoy drawing pictures?,2859
+She decided to study abroad.,2860
+I didn't expect such a quick answer.,2861
+Did he promise to help you?,2862
+Please turn off the lights.,2863
+Don't leave your bag here.,2864
+Could you close the door gently?,2865
+This bicycle belongs to my cousin.,2866
+That small house is theirs.,2867
+Is this seat yours?,2868
+I sent her an interesting photo.,2869
+He didn't show me his new project.,2870
+Did they give you enough information?,2871
+We walked through the forest yesterday.,2872
+She didn't sit beside the window.,2873
+Can you wait outside for me?,2874
+He answered the question correctly.,2875
+I wasn't completely satisfied with the result.,2876
+Why did she change her mind?,2877
+They are interested in learning Spanish.,2878
+My friends aren't good at remembering names.,2879
+Are you interested in photography?,2880
+I need to finish this report tonight.,2881
+She doesn't need to bring anything.,2882
+Would you like to come with us?,2883
+We stopped to buy some water.,2884
+He stopped talking during the lesson.,2885
+Did you remember to charge your phone?,2886
+My teacher gave me helpful advice.,2887
+I couldn't understand the instructions.,2888
+Where did you find this information?,2889
+The library is across from the school.,2890
+Our classroom isn't behind the laboratory.,2891
+Is the computer room upstairs?,2892
+She speaks English quite confidently.,2893
+He doesn't usually arrive late.,2894
+How often do you practice speaking?,2895
+We need to prepare for tomorrow.,2896
+They forgot to bring their notebooks.,2897
+Did you remember the meeting time?,2898
+I am looking forward to the holiday.,2899
+She chose to stay at home.,2900
+I have already cleaned my room.,2901
+She didn't bring her umbrella today.,2902
+Have you ever visited a museum alone?,2903
+We were watching a movie at eight.,2904
+He doesn't usually eat spicy food.,2905
+Did your parents enjoy the trip?,2906
+They are going to move next month.,2907
+I won't forget your birthday.,2908
+Will you join the meeting tomorrow?,2909
+My sister can play the guitar.,2910
+You shouldn't leave the door open.,2911
+Must we finish this work today?,2912
+I have known him for five years.,2913
+She met her new teacher yesterday.,2914
+How long have you lived here?,2915
+We bought some fresh vegetables.,2916
+There isn't enough milk for everyone.,2917
+Do you have any free time?,2918
+This exercise is easier than the last one.,2919
+My old laptop was much slower.,2920
+Which road is shorter?,2921
+He speaks more slowly than his brother.,2922
+That building is the tallest in the area.,2923
+Is this bag heavier than yours?,2924
+I enjoy listening to music.,2925
+She decided not to travel alone.,2926
+Would you prefer to stay here?,2927
+Please write your name clearly.,2928
+Don't forget your keys again.,2929
+Could you help me with this box?,2930
+My phone is under the pillow.,2931
+The children aren't in the garden.,2932
+Where did you put my glasses?,2933
+We should leave before the traffic starts.,2934
+He doesn't have to wear a suit.,2935
+Do I need to bring my passport?,2936
+"If it rains, we will stay home.",2937
+"If you study regularly, you can improve.",2938
+What will you do if they cancel?,2939
+"I was tired, so I went home.",2940
+She stayed inside because it was cold.,2941
+"Although he was busy, he called me.",2942
+They have just arrived at the station.,2943
+I saw them near the entrance.,2944
+Have you checked the train schedule?,2945
+He has never ridden a horse.,2946
+We visited a small village last spring.,2947
+Did you take many pictures there?,2948
+She has improved a lot recently.,2949
+Her teacher noticed the change.,2950
+I usually plan my day in advance.,2951
+She didn't recognize the man at first.,2952
+Have you ever tried camping alone?,2953
+We arrived before the meeting started.,2954
+He wasn't ready for the exam.,2955
+Did you remember to lock the car?,2956
+They are going to build a new school.,2957
+I won't stay outside in the rain.,2958
+Will she come to the party?,2959
+My cousin can repair computers.,2960
+You shouldn't spend all your money.,2961
+Do we have to wait here?,2962
+I have already finished my work.,2963
+She visited her aunt last weekend.,2964
+How long have you studied English?,2965
+There are several books on the desk.,2966
+We don't have enough chairs.,2967
+Is there any coffee left?,2968
+This road is wider than that one.,2969
+My new chair is more comfortable.,2970
+Which room is the largest?,2971
+He enjoys taking photos of nature.,2972
+I decided to learn another language.,2973
+Would you like to take a break?,2974
+Please put your books on the shelf.,2975
+Don't open that drawer.,2976
+Could you carry this bag for me?,2977
+My keys are beside the computer.,2978
+The children aren't upstairs now.,2979
+Where is your brother working today?,2980
+We should check the answer again.,2981
+She doesn't have to come early.,2982
+Can I use your charger?,2983
+"If I have time, I will call you.",2984
+"If you hurry, you can catch the bus.",2985
+What will happen if we are late?,2986
+I stayed home because I felt tired.,2987
+"He was hungry, so he made a sandwich.",2988
+"Although it was cold, we went outside.",2989
+They have just completed the project.,2990
+I saw their teacher this morning.,2991
+Have you sent the final report?,2992
+She has never visited another country.,2993
+We traveled to Ankara two years ago.,2994
+Did you enjoy your journey?,2995
+I have learned many new words.,2996
+My English became better with practice.,2997
+Do you feel more confident now?,2998
+We have reached the end of A2.,2999
+I am ready to start B1.,3000
+I usually review my notes before class.,3001
+She didn't expect such a difficult question.,3002
+Have you ever learned something by yourself?,3003
+We decided to leave after lunch.,3004
+He couldn't attend the meeting yesterday.,3005
+Why did you change your plans?,3006
+I think this method is quite useful.,3007
+She doesn't agree with my opinion.,3008
+What do you think about this idea?,3009
+We stayed home because the weather was terrible.,3010
+"He missed the bus, so he walked to work.",3011
+"Although she was tired, she continued studying.",3012
+I have been interested in technology for years.,3013
+She started learning English at school.,3014
+How long have you been using this computer?,3015
+The students worked together on the project.,3016
+Our teacher gave us some useful suggestions.,3017
+Did everyone understand the instructions?,3018
+I need more time to finish this task.,3019
+He doesn't know how to solve the problem.,3020
+Can you explain why this happens?,3021
+We will probably finish the work tomorrow.,3022
+She may visit us next weekend.,3023
+Do you think they will accept the offer?,3024
+I was surprised by the final result.,3025
+He wasn't satisfied with his performance.,3026
+Were you interested in the subject before?,3027
+Learning a language requires regular practice.,3028
+She avoids using her phone while studying.,3029
+Do you enjoy working with other people?,3030
+I found an interesting article about education.,3031
+He didn't have enough information to decide.,3032
+Where did you find that information?,3033
+We should consider all the possibilities.,3034
+She shouldn't worry about small mistakes.,3035
+What should we do next?,3036
+"If we work together, we can finish earlier.",3037
+"If he studies harder, he will improve.",3038
+What will you do if the plan fails?,3039
+My daughter has become more confident recently.,3040
+Her teacher noticed her improvement.,3041
+Have you noticed any changes in your habits?,3042
+I prefer studying in a quiet place.,3043
+He doesn't mind working at weekends.,3044
+Would you rather study alone or with friends?,3045
+The internet has changed the way we learn.,3046
+Many students use technology for their studies.,3047
+How has technology affected your daily life?,3048
+I want to improve my speaking skills.,3049
+I know that progress takes time.,3050
+I usually make a list before shopping.,3051
+She didn't understand the main point.,3052
+Have you ever worked on a difficult project?,3053
+We discussed the problem during lunch.,3054
+He wasn't interested in the proposed solution.,3055
+What caused the problem in the first place?,3056
+I believe regular practice makes a difference.,3057
+She doesn't depend on other people's opinions.,3058
+Do you agree with this approach?,3059
+The students completed the task together.,3060
+Our teacher explained the topic with examples.,3061
+How did you solve the last question?,3062
+I couldn't concentrate because the room was noisy.,3063
+He didn't want to interrupt the conversation.,3064
+Why were you absent from class yesterday?,3065
+We have recently started a new project.,3066
+She has already collected the necessary information.,3067
+Have you checked the latest results?,3068
+Learning from mistakes can be very useful.,3069
+He avoids making the same mistake twice.,3070
+Do you learn better by reading or listening?,3071
+I was looking for a simpler solution.,3072
+She found an easier way to organize the files.,3073
+Which method works better for you?,3074
+The meeting was canceled because of the weather.,3075
+We had to change our plans quickly.,3076
+What would you do in this situation?,3077
+I will let you know when I decide.,3078
+She may need some extra time.,3079
+Will they announce the results tomorrow?,3080
+My brother has been working there since June.,3081
+I started this course three months ago.,3082
+How long have you known your best friend?,3083
+The book contains several useful examples.,3084
+He didn't mention the most important detail.,3085
+Which part of the book did you enjoy most?,3086
+I prefer practical activities to long lectures.,3087
+She isn't comfortable speaking in large groups.,3088
+Would you rather work alone today?,3089
+We need to find a better way.,3090
+He suggested changing the original plan.,3091
+What solution would you suggest?,3092
+"If you organize your time, you will feel better.",3093
+"If they agree, we can start tomorrow.",3094
+What happens if nobody accepts the proposal?,3095
+I have learned a lot from this experience.,3096
+She became more confident after the course.,3097
+Did the experience change your opinion?,3098
+Good communication helps people work together.,3099
+I want to use English more naturally.,3100
+I usually write down important ideas.,3101
+She didn't notice the mistake at first.,3102
+Have you ever solved a problem like this?,3103
+We discussed several possible solutions.,3104
+He wasn't able to finish the task alone.,3105
+What made you choose this method?,3106
+I think experience is important in this field.,3107
+She doesn't always trust online information.,3108
+How do you usually make important decisions?,3109
+The students improved after receiving regular feedback.,3110
+Our teacher encouraged us to ask questions.,3111
+Did the feedback help you improve?,3112
+I couldn't focus because I was feeling tired.,3113
+He didn't want to give up so easily.,3114
+Why did they cancel the activity?,3115
+We have recently changed our study plan.,3116
+She has already completed most of the work.,3117
+Have you made any progress this week?,3118
+Regular exercise can improve your concentration.,3119
+He avoids checking his phone during lessons.,3120
+Do you find it difficult to stay focused?,3121
+I was searching for information about the course.,3122
+She discovered a useful website by chance.,3123
+Where did you get this idea?,3124
+We need to discuss the problem carefully.,3125
+He shouldn't make a decision too quickly.,3126
+What would you suggest in this situation?,3127
+"If we plan carefully, we can save time.",3128
+"If she practices regularly, she will become more confident.",3129
+What will happen if the system stops working?,3130
+I have been studying English for several months.,3131
+He started working at the company last year.,3132
+How long have you been learning programming?,3133
+The course has changed my approach to learning.,3134
+She didn't understand the instructions immediately.,3135
+Did you find the course useful?,3136
+I prefer practical examples to complicated explanations.,3137
+He isn't interested in memorizing long lists.,3138
+Would you rather learn through practice?,3139
+We should compare the two methods.,3140
+She suggested using a different approach.,3141
+Which option would you choose?,3142
+"The project was difficult, but we completed it.",3143
+"He was tired, yet he continued working.",3144
+Why did you continue despite the difficulties?,3145
+I have learned from several mistakes.,3146
+She became more independent during the project.,3147
+Have your study habits changed recently?,3148
+Technology allows us to communicate more easily.,3149
+I want to become more confident when I speak English.,3150
+I often review difficult words before sleeping.,3151
+She didn't recognize the importance of the decision.,3152
+Have you ever changed your learning method?,3153
+We need to find a practical solution.,3154
+He wasn't prepared for the unexpected question.,3155
+What do you usually do when problems appear?,3156
+I believe patience is necessary for learning.,3157
+She doesn't give up when things become difficult.,3158
+How do you deal with stressful situations?,3159
+The teacher explained the process step by step.,3160
+The students didn't understand every detail.,3161
+Did the explanation make the topic clearer?,3162
+I have recently become interested in photography.,3163
+He has never worked with this type of equipment.,3164
+Have you ever used a similar device?,3165
+We were discussing the project when the manager arrived.,3166
+She wasn't listening because she was taking notes.,3167
+What were you doing when the phone rang?,3168
+I need to improve my time management skills.,3169
+He avoids making important decisions when he is tired.,3170
+Do you find it easy to organize your time?,3171
+The new system works more efficiently than the old one.,3172
+Our previous method wasn't very effective.,3173
+Which approach seems more suitable?,3174
+I would like to gain more experience in this area.,3175
+She doesn't want to depend on others.,3176
+Would you consider working on a similar project?,3177
+We can reduce the problem by planning ahead.,3178
+He couldn't solve the issue without help.,3179
+How can we prevent this problem?,3180
+"If you make a clear plan, you can work faster.",3181
+"If the weather improves, we will continue outside.",3182
+What will you do if you miss the deadline?,3183
+I have been using this application since January.,3184
+She started the course after graduating from school.,3185
+How long have you been interested in technology?,3186
+The report contains several important details.,3187
+He didn't mention the possible risks.,3188
+Which details should we include in the report?,3189
+I was surprised by how quickly things changed.,3190
+She wasn't satisfied with the final result.,3191
+Were you disappointed by the decision?,3192
+Good communication can prevent many problems.,3193
+He doesn't communicate his ideas clearly.,3194
+How do you explain your ideas to others?,3195
+I have gained confidence through regular practice.,3196
+She became more comfortable speaking in public.,3197
+Has your confidence improved recently?,3198
+"Learning requires time, effort, and patience.",3199
+I am beginning to express my ideas more clearly.,3200
+I usually prepare my materials the night before.,3201
+She didn't realize that the deadline was so close.,3202
+Have you ever had to solve a problem quickly?,3203
+We discussed the advantages of the new system.,3204
+He wasn't familiar with the software.,3205
+What kind of problems do you usually face?,3206
+I think clear instructions save a lot of time.,3207
+She doesn't believe every story she hears.,3208
+How do you decide whether information is reliable?,3209
+The students worked hard to complete the assignment.,3210
+Our teacher gave us detailed feedback.,3211
+Did you make any changes after the feedback?,3212
+I couldn't concentrate during the noisy lesson.,3213
+He didn't notice that someone had called him.,3214
+Why couldn't you finish the exercise?,3215
+We have already discussed this issue.,3216
+She has recently started a new job.,3217
+Have they found a suitable solution yet?,3218
+Reading regularly helps you develop new skills.,3219
+He avoids spending too much time online.,3220
+Do you prefer reading printed books?,3221
+I was trying to understand the instructions.,3222
+She found the answer after checking several sources.,3223
+Where did you learn about this method?,3224
+We should consider the possible consequences.,3225
+He shouldn't ignore useful advice.,3226
+What would you recommend to a beginner?,3227
+"If we share the work, we can finish sooner.",3228
+"If you continue practicing, your pronunciation will improve.",3229
+What will you do if you make a serious mistake?,3230
+I have been working on this project since Monday.,3231
+She has studied several different approaches.,3232
+How long have you been using this method?,3233
+The new policy has affected many employees.,3234
+He didn't explain the reason for the change.,3235
+Did the change affect your daily routine?,3236
+I prefer working in a quiet environment.,3237
+She isn't comfortable with sudden changes.,3238
+Would you rather work from home or at an office?,3239
+We need to improve the quality of our work.,3240
+He suggested a simple way to reduce costs.,3241
+Which solution would you suggest?,3242
+"Although the task was difficult, we finished it.",3243
+She stayed calm even though everyone was worried.,3244
+Why did he leave despite the problem?,3245
+I have learned how important planning can be.,3246
+She became more organized after using a daily schedule.,3247
+Have your priorities changed over time?,3248
+Technology makes it easier to share information.,3249
+I am becoming more comfortable using English every day.,3250
+I usually compare several options before deciding.,3251
+She didn't expect the meeting to last so long.,3252
+Have you ever made a difficult choice?,3253
+We need to understand the main reason.,3254
+He wasn't aware of the possible consequences.,3255
+What factors influenced your decision?,3256
+I believe teamwork can improve the final result.,3257
+She doesn't enjoy working under pressure.,3258
+How do you handle pressure at work?,3259
+The students shared their ideas with the class.,3260
+Our teacher encouraged everyone to participate.,3261
+Did you contribute to the discussion?,3262
+I couldn't remember where I had put the document.,3263
+He didn't recognize the name on the list.,3264
+Why did you forget about the appointment?,3265
+We have already completed the first stage.,3266
+She has gained valuable experience recently.,3267
+Have you achieved your main goal yet?,3268
+Regular practice makes difficult skills easier.,3269
+He avoids comparing himself with other people.,3270
+Do you find this exercise useful?,3271
+I was looking for a reliable source.,3272
+She found several useful articles online.,3273
+Which source do you trust most?,3274
+We should focus on the most important points.,3275
+He shouldn't waste time on unnecessary details.,3276
+What should we focus on first?,3277
+"If we divide the task, everyone can help.",3278
+"If she gets more experience, she will feel confident.",3279
+What will happen if the situation changes?,3280
+I have been trying to improve my writing.,3281
+He has worked on similar projects before.,3282
+How long have you been practicing this skill?,3283
+The new course provides useful information.,3284
+She didn't find the material difficult.,3285
+Did the course meet your expectations?,3286
+I prefer simple explanations with clear examples.,3287
+He isn't interested in theoretical discussions.,3288
+Would you rather discuss the problem tomorrow?,3289
+We need to develop a better strategy.,3290
+She proposed a different approach to the problem.,3291
+What approach would you recommend?,3292
+"Although the journey was tiring, we enjoyed it.",3293
+He continued working despite feeling exhausted.,3294
+Why did they continue after the warning?,3295
+I have become more careful with my time.,3296
+She learned how to manage several tasks.,3297
+Have you changed your priorities recently?,3298
+Good habits can make learning more effective.,3299
+I am gradually becoming more confident in English.,3300
+I usually organize my tasks by priority.,3301
+She didn't notice how much time had passed.,3302
+Have you ever changed your plans at the last minute?,3303
+We discussed the problem with our colleagues.,3304
+He wasn't familiar with the new procedure.,3305
+What information do you need before starting?,3306
+I think regular feedback improves learning.,3307
+She doesn't rely entirely on online sources.,3308
+How do you know whether an answer is correct?,3309
+The students prepared a presentation together.,3310
+Our teacher asked us to explain our ideas.,3311
+Did you feel nervous during your presentation?,3312
+I couldn't understand the speaker because of the noise.,3313
+He didn't want to interrupt the lesson.,3314
+Why did she leave the classroom early?,3315
+We have already collected enough information.,3316
+She has recently joined a new team.,3317
+Have you received any useful feedback?,3318
+Reading different opinions can broaden your perspective.,3319
+He avoids discussing personal matters at work.,3320
+Do you enjoy sharing your ideas with others?,3321
+I was trying to find a more efficient method.,3322
+She discovered a useful feature in the application.,3323
+Where did you learn this technique?,3324
+We should examine the evidence carefully.,3325
+He shouldn't make assumptions without enough information.,3326
+What would you do in my position?,3327
+"If we communicate clearly, we can avoid misunderstandings.",3328
+"If you follow these steps, the process will be easier.",3329
+What will you do if the problem continues?,3330
+I have been preparing for the exam all week.,3331
+She has worked in education for several years.,3332
+How long have you been using this computer?,3333
+The new system has several useful features.,3334
+He didn't explain how the system worked.,3335
+Did you notice any problems with it?,3336
+I prefer learning through real examples.,3337
+She isn't interested in memorizing definitions.,3338
+Would you rather practice with a partner?,3339
+We need to identify the main problem first.,3340
+He suggested changing the schedule slightly.,3341
+Which solution seems more realistic?,3342
+"Although the instructions were clear, some students made mistakes.",3343
+She kept working despite several difficulties.,3344
+Why did you continue when the task became difficult?,3345
+I have learned to manage my time better.,3346
+She became more independent after gaining experience.,3347
+Have you developed any useful study habits?,3348
+Technology has changed the way people communicate.,3349
+I can now express my ideas more naturally in English.,3350
+I usually check the details before making a decision.,3351
+She didn't expect the situation to change so quickly.,3352
+Have you ever had to work under pressure?,3353
+We discussed several ways to improve the project.,3354
+He wasn't confident about his final answer.,3355
+What made you interested in this subject?,3356
+I believe mistakes can provide valuable lessons.,3357
+She doesn't avoid difficult conversations anymore.,3358
+How do you usually solve disagreements?,3359
+The students completed the assignment before Friday.,3360
+Our teacher explained why the results were different.,3361
+Did you understand the reason for the change?,3362
+I couldn't concentrate because I hadn't slept well.,3363
+He didn't remember where he had saved the file.,3364
+Why couldn't you attend the training session?,3365
+We have recently improved our learning materials.,3366
+She has already finished the first part.,3367
+Have you made any progress on your project?,3368
+Good preparation can reduce unnecessary stress.,3369
+He avoids making promises he cannot keep.,3370
+Do you think preparation is important?,3371
+I was searching for a course that matched my needs.,3372
+She found an interesting opportunity through a friend.,3373
+Where did you hear about the program?,3374
+We should take the possible risks seriously.,3375
+He shouldn't ignore the advice of experienced people.,3376
+What would you change about the current system?,3377
+"If we use our resources carefully, we can save money.",3378
+"If she gets the opportunity, she will accept it.",3379
+What will happen if we miss the deadline?,3380
+I have been working on my vocabulary every day.,3381
+She has studied English since she was a child.,3382
+How long have you been practicing pronunciation?,3383
+The report provides useful information about the project.,3384
+He didn't mention the main reason for the delay.,3385
+Did you notice anything unusual in the report?,3386
+I prefer solving problems step by step.,3387
+She isn't comfortable making decisions without evidence.,3388
+Would you rather discuss this issue privately?,3389
+We need to develop a clear plan.,3390
+He proposed several changes to the schedule.,3391
+Which proposal seems most practical?,3392
+"Although the task was demanding, we finished it on time.",3393
+She remained calm despite the unexpected problem.,3394
+Why did he continue working after everyone left?,3395
+I have become more aware of my weaknesses.,3396
+She learned to deal with unexpected situations.,3397
+Have you noticed any improvement in your speaking?,3398
+Technology can make education more accessible.,3399
+I am starting to understand longer English sentences more easily.,3400
+I need more practice.,3401
+She didn't understand everything.,3402
+Have you checked the results?,3403
+We discussed the problem.,3404
+He wasn't ready yet.,3405
+Why did they leave?,3406
+I prefer simple explanations.,3407
+She doesn't trust strangers.,3408
+Do you agree with me?,3409
+They completed the project.,3410
+We didn't finish early.,3411
+Did everyone understand?,3412
+I couldn't concentrate today.,3413
+He forgot the deadline.,3414
+Why were you absent?,3415
+We have changed plans.,3416
+She hasn't finished yet.,3417
+Have you made progress?,3418
+Practice improves your skills.,3419
+He avoids unnecessary risks.,3420
+Do you practice daily?,3421
+I found useful information.,3422
+She didn't recognize him.,3423
+Where did you find it?,3424
+We should check everything.,3425
+He shouldn't worry unnecessarily.,3426
+What should we change?,3427
+We can solve this.,3428
+She will probably agree.,3429
+What will happen next?,3430
+I have studied recently.,3431
+He started working yesterday.,3432
+How long have you practiced?,3433
+The system works well.,3434
+It didn't work yesterday.,3435
+Did you restart it?,3436
+I prefer working alone.,3437
+She dislikes sudden changes.,3438
+Would you rather wait?,3439
+We need better results.,3440
+He suggested another method.,3441
+Which method seems better?,3442
+The task was difficult.,3443
+She remained calm throughout.,3444
+Why did he continue?,3445
+I learned something useful.,3446
+She gained valuable experience.,3447
+Have you improved recently?,3448
+Technology changes our lives.,3449
+I feel more confident.,3450
+I usually review my mistakes carefully.,3451
+She didn't notice the small difference.,3452
+Have you checked the latest information?,3453
+We discussed several possible solutions yesterday.,3454
+He wasn't satisfied with the result.,3455
+Why did they change their decision?,3456
+I believe practice builds strong habits.,3457
+She doesn't accept every suggestion.,3458
+Do you trust this information completely?,3459
+The students completed their work successfully.,3460
+Our teacher explained the difficult topic.,3461
+Did everyone understand the instructions clearly?,3462
+I couldn't focus during the meeting.,3463
+He forgot to check his email.,3464
+Why were you feeling nervous?,3465
+We have already discussed this problem.,3466
+She hasn't finished her assignment yet.,3467
+Have you found a better solution?,3468
+Regular exercise improves your mental health.,3469
+He avoids spending unnecessary time online.,3470
+Do you exercise regularly during weekends?,3471
+I found an interesting article yesterday.,3472
+She didn't recognize the author's name.,3473
+Where did you find that article?,3474
+We should consider every possible option.,3475
+He shouldn't ignore useful advice.,3476
+What should we discuss first?,3477
+We can solve this problem together.,3478
+She will probably arrive before dinner.,3479
+What will you do tomorrow?,3480
+I have studied English for years.,3481
+He started learning Spanish last summer.,3482
+How long have you practiced speaking?,3483
+The new system saves valuable time.,3484
+It didn't solve our main problem.,3485
+Did the system work properly?,3486
+I prefer working in quiet places.,3487
+She dislikes making unnecessary decisions.,3488
+Would you rather work alone?,3489
+We need to improve our communication.,3490
+He suggested using a different approach.,3491
+Which approach seems more practical?,3492
+The journey was tiring but enjoyable.,3493
+She remained calm during the emergency.,3494
+Why did he stay there?,3495
+I learned several useful lessons.,3496
+She gained confidence through regular practice.,3497
+Have you noticed any improvement?,3498
+Technology affects modern education significantly.,3499
+I feel more comfortable speaking English.,3500
+She had already left.,3501
+He hadn't finished his homework.,3502
+Had you seen that movie before?,3503
+They had eaten before we arrived.,3504
+I hadn't met him before.,3505
+Had she called you earlier?,3506
+We had missed the last bus.,3507
+He hadn't locked the front door.,3508
+Had they visited London before?,3509
+The train had already departed.,3510
+She hadn't prepared dinner yet.,3511
+Had you finished before midnight?,3512
+I arrived after everyone had left.,3513
+He couldn't enter because he had forgotten his key.,3514
+Why had she changed her mind?,3515
+We had never tried sushi before.,3516
+They hadn't received our message.,3517
+Had you studied English before moving abroad?,3518
+She realized that she had made a mistake.,3519
+I didn't recognize him because he had changed.,3520
+What had happened before you arrived?,3521
+The children had fallen asleep already.,3522
+He hadn't saved the document before closing it.,3523
+Had they completed the project by Friday?,3524
+I had lost my wallet earlier.,3525
+She hadn't heard the announcement.,3526
+Why had they canceled the meeting?,3527
+We were hungry because we hadn't eaten.,3528
+He felt relieved because he had passed.,3529
+Had she explained everything before leaving?,3530
+The shop had closed before we arrived.,3531
+I hadn't expected such a difficult question.,3532
+Had you ever ridden a horse before?,3533
+She had learned some Spanish before traveling.,3534
+They hadn't visited us for years.,3535
+Where had he put the documents?,3536
+"By noon, we had finished everything.",3537
+She hadn't noticed the warning sign.,3538
+Had the rain stopped before sunrise?,3539
+I remembered that I had forgotten something.,3540
+He had never driven such a large vehicle.,3541
+Why hadn't you told me earlier?,3542
+They had booked the hotel in advance.,3543
+We hadn't planned for bad weather.,3544
+Had she worked there before moving?,3545
+The movie had started when we entered.,3546
+I hadn't seen that photograph before.,3547
+What had you learned by then?,3548
+He apologized because he had made a mistake.,3549
+We had solved the problem before lunch.,3550
+The train had left before we arrived.,3551
+I bought a new jacket yesterday.,3552
+Had she eaten before the meeting started?,3553
+He called me after work.,3554
+We had finished dinner when they arrived.,3555
+I didn't recognize her at first.,3556
+Had you locked the door before leaving?,3557
+They moved here three years ago.,3558
+She had already booked the tickets.,3559
+Why did he leave so early?,3560
+I had never seen snow before.,3561
+We visited the museum last weekend.,3562
+Had they met before the conference?,3563
+He couldn't enter because he'd lost his key.,3564
+She found her phone under the sofa.,3565
+The film had started when we entered.,3566
+Did you enjoy the concert yesterday?,3567
+They hadn't finished when the manager arrived.,3568
+I forgot where I'd parked my car.,3569
+Had he studied before taking the exam?,3570
+We missed the bus this morning.,3571
+She had changed her clothes before dinner.,3572
+When did you last see him?,3573
+He was tired because he'd worked all night.,3574
+Had the rain stopped before sunrise?,3575
+I sent the email after lunch.,3576
+They had already left the restaurant.,3577
+Why hadn't she answered your message?,3578
+We arrived after the shop had closed.,3579
+Did he explain the problem clearly?,3580
+I'd finished my homework before my friends arrived.,3581
+She didn't bring her umbrella yesterday.,3582
+Had you heard that song before?,3583
+He discovered he'd made a serious mistake.,3584
+We stayed home because it rained.,3585
+The children had fallen asleep before midnight.,3586
+When did she start learning French?,3587
+I hadn't expected such a difficult question.,3588
+Had they prepared everything before the guests arrived?,3589
+He bought his first computer last year.,3590
+She felt nervous because she'd forgotten her notes.,3591
+We didn't know that he had resigned.,3592
+Had the plane taken off before you arrived?,3593
+I found the book I'd lost.,3594
+They cancelled the trip because snow had blocked the roads.,3595
+Did you call her after the meeting?,3596
+He had never driven abroad before that trip.,3597
+I recognized the place immediately.,3598
+Why did they change their plans?,3599
+She had prepared everything before the guests arrived.,3600
+I think our team will win.,3601
+She is going to learn Italian.,3602
+We are meeting the director tomorrow.,3603
+I'll help you carry those boxes.,3604
+Look at those clouds! It's going to rain.,3605
+They are flying to Berlin next Monday.,3606
+Perhaps he will change his mind.,3607
+My sister is going to open a bakery.,3608
+I'm having lunch with my cousin tomorrow.,3609
+Don't worry; everything will be fine.,3610
+He is going to repair his bicycle.,3611
+Are you seeing the dentist tomorrow?,3612
+I promise I won't forget your birthday.,3613
+The baby is going to wake up.,3614
+We are visiting our grandparents this weekend.,3615
+Who will lead the next meeting?,3616
+She's going to apply for a scholarship.,3617
+They are moving into their new apartment.,3618
+I'll answer the phone.,3619
+That glass is going to fall!,3620
+Will you join us for dinner?,3621
+I'm starting a new course next week.,3622
+He probably won't accept the offer.,3623
+We are going to paint the kitchen.,3624
+Is she coming to the graduation ceremony?,3625
+I'll send you the address tonight.,3626
+They are going to adopt a dog.,3627
+Our flight leaves at seven tomorrow.,3628
+I don't think it'll snow tonight.,3629
+Are they planning to sell their house?,3630
+I'm meeting my tutor after school.,3631
+She will probably become a good engineer.,3632
+Be careful! You're going to spill that.,3633
+We aren't working this Saturday.,3634
+Will the new software solve this problem?,3635
+He's going to build a garden shed.,3636
+My parents are arriving late tonight.,3637
+I think you'll enjoy this book.,3638
+When are you leaving for Ankara?,3639
+They won't need our assistance tomorrow.,3640
+She's going to study abroad next year.,3641
+We're having a staff meeting on Friday.,3642
+Perhaps the price will decrease soon.,3643
+Is he going to change jobs?,3644
+I'll get you a glass of water.,3645
+The students are taking an exam tomorrow.,3646
+I doubt they will finish today.,3647
+Watch out! That branch is going to break.,3648
+What time are you meeting your friends?,3649
+We are going to upgrade our computers.,3650
+"If I lived abroad, I'd learn French.",3651
+She would buy a house if she could.,3652
+What would you do with a million dollars?,3653
+"If he exercised more, he'd feel healthier.",3654
+We would travel more if flights were cheaper.,3655
+"If I knew the answer, I'd tell you.",3656
+Where would you live if money didn't matter?,3657
+They would join us if they were free.,3658
+"If she spoke Japanese, she'd work in Tokyo.",3659
+I wouldn't complain if the service improved.,3660
+What would happen if the internet disappeared?,3661
+"If we had a garden, we'd grow vegetables.",3662
+He wouldn't feel lonely if he had friends.,3663
+"If I were taller, I'd play basketball.",3664
+Would you move abroad for a better job?,3665
+"If the shop stayed open, I'd buy bread.",3666
+She'd feel safer if someone walked with her.,3667
+"If I owned a boat, I'd explore islands.",3668
+They wouldn't argue if they listened carefully.,3669
+What would you change about your hometown?,3670
+"If he saved money, he'd buy a motorcycle.",3671
+I'd learn piano if I had lessons.,3672
+"If we lived nearby, we'd meet more often.",3673
+Would she forgive him if he apologized?,3674
+"If I knew her number, I'd call her.",3675
+He'd travel alone if he weren't afraid.,3676
+"If schools started later, students might sleep better.",3677
+I wouldn't sell it if it were valuable.,3678
+What would you cook if guests arrived unexpectedly?,3679
+"If she had a camera, she'd photograph birds.",3680
+We could save energy if we insulated the house.,3681
+"If I were you, I'd check the contract.",3682
+Would they help if we asked politely?,3683
+"If the road were safer, I'd cycle.",3684
+He might succeed if he worked consistently.,3685
+"If I had wings, I'd fly everywhere.",3686
+She wouldn't worry if she trusted herself.,3687
+Where would you go if you needed peace?,3688
+"If we knew the truth, we'd understand.",3689
+I'd grow tomatoes if my balcony were sunnier.,3690
+"If he had more patience, he'd teach well.",3691
+Would you accept the offer if they agreed?,3692
+"If the weather improved, we'd hike tomorrow.",3693
+She could become manager if she gained experience.,3694
+"If I didn't work weekends, I'd relax more.",3695
+What would your ideal home look like?,3696
+They'd stay longer if the hotel were cheaper.,3697
+"If I understood the instructions, I'd start immediately.",3698
+He wouldn't miss trains if he left earlier.,3699
+"If everyone recycled, cities would produce less waste.",3700
+She might arrive before lunchtime.,3701
+He must be exhausted after work.,3702
+They may cancel the outdoor concert.,3703
+This can't be the correct address.,3704
+We might need another computer.,3705
+She must know the answer.,3706
+The keys may be inside the drawer.,3707
+He can't be serious about quitting.,3708
+It might snow in the mountains tonight.,3709
+Your explanation must be correct.,3710
+They may already know about the accident.,3711
+This can't belong to my neighbor.,3712
+I might take a different route.,3713
+She must be waiting outside.,3714
+The package may arrive this afternoon.,3715
+He can't have forgotten the appointment.,3716
+We might discover something interesting.,3717
+You must be joking right now.,3718
+Their flight may be delayed.,3719
+That can't be an easy decision.,3720
+She might prefer a quieter restaurant.,3721
+He must have a good reason.,3722
+The answer may surprise everyone.,3723
+They can't have finished already.,3724
+I might apply for another position.,3725
+This must be the right building.,3726
+She may have left her notebook upstairs.,3727
+He can't know everything about computers.,3728
+We might visit the science museum.,3729
+Your brother must be very proud.,3730
+The roads may become slippery overnight.,3731
+That can't have been an accident.,3732
+I might change my study schedule.,3733
+She must have misunderstood the instructions.,3734
+Their decision may affect our plans.,3735
+He can't be older than thirty.,3736
+We might find cheaper accommodation nearby.,3737
+The lights are on; someone must be home.,3738
+This medicine may cause mild dizziness.,3739
+They can't have reached the station yet.,3740
+She might already have another appointment.,3741
+You must have seen that unusual sign.,3742
+The missing file may be recoverable.,3743
+He can't have repaired everything alone.,3744
+I might reconsider my original decision.,3745
+This must be a technical problem.,3746
+They may need additional training.,3747
+She can't be working at this hour.,3748
+The noise might come from upstairs.,3749
+He must have taken the wrong turn.,3750
+You should have checked the weather forecast.,3751
+She could have won the competition.,3752
+He might have missed the last train.,3753
+We should have booked our tickets earlier.,3754
+They could have avoided that expensive mistake.,3755
+I might have left my wallet upstairs.,3756
+You should have listened more carefully.,3757
+She could have become a famous artist.,3758
+He might have misunderstood your instructions.,3759
+We shouldn't have wasted so much time.,3760
+Could they have taken another route?,3761
+You might have seen him at school.,3762
+I should have saved a backup copy.,3763
+She couldn't have known about the changes.,3764
+They should have warned the passengers earlier.,3765
+He could have repaired the broken chair.,3766
+Might she have forgotten our appointment?,3767
+We should have brought warmer clothes.,3768
+You could have asked for directions.,3769
+They might have arrived before sunset.,3770
+I shouldn't have ignored that warning.,3771
+Could he have solved the puzzle alone?,3772
+She might have taken the wrong bus.,3773
+We could have chosen a better location.,3774
+You should have kept your receipt.,3775
+He might have sent the wrong file.,3776
+They shouldn't have interrupted the speaker.,3777
+Could she have hidden the documents somewhere?,3778
+I could have studied engineering instead.,3779
+You might have misunderstood his intentions.,3780
+We should have prepared some extra food.,3781
+He couldn't have predicted that sudden change.,3782
+She should have applied before the deadline.,3783
+Might they have forgotten to lock the gate?,3784
+I could have handled the situation better.,3785
+You shouldn't have shared that private information.,3786
+He might have confused the two addresses.,3787
+Could we have prevented this problem earlier?,3788
+She could have called a taxi.,3789
+They should have followed the safety instructions.,3790
+I might have misunderstood the question.,3791
+He shouldn't have spent all his savings.,3792
+Could you have finished the task sooner?,3793
+We might have overlooked an important detail.,3794
+She should have checked her spelling carefully.,3795
+They could have reached an agreement yesterday.,3796
+You might have left your glasses downstairs.,3797
+He should have apologized for his behavior.,3798
+Could she have found a simpler solution?,3799
+We shouldn't have postponed the meeting again.,3800
+English is spoken in many countries.,3801
+The windows were cleaned yesterday.,3802
+This machine is used for cutting metal.,3803
+The results will be announced tomorrow.,3804
+These products are made in Japan.,3805
+My bicycle was stolen last night.,3806
+The documents must be signed today.,3807
+Fresh bread is sold here.,3808
+The bridge was built many years ago.,3809
+Mobile phones are prohibited during examinations.,3810
+The meeting has been postponed until Friday.,3811
+This problem can be solved easily.,3812
+The classroom is cleaned every morning.,3813
+The old factory was closed last winter.,3814
+Your application will be reviewed soon.,3815
+These computers are repaired by students.,3816
+The package hasn't been delivered yet.,3817
+The road was blocked by fallen trees.,3818
+New employees are trained every month.,3819
+The password should be changed regularly.,3820
+The museum was visited by thousands.,3821
+The lights must be switched off.,3822
+This software is updated automatically.,3823
+The broken window has been replaced.,3824
+The invitations were sent last Monday.,3825
+Personal information must be protected carefully.,3826
+The final decision hasn't been made.,3827
+These components are tested before installation.,3828
+The school will be renovated next summer.,3829
+The instructions were written very clearly.,3830
+Can this device be repaired?,3831
+The electricity was disconnected during maintenance.,3832
+All assignments must be submitted online.,3833
+The missing files have been recovered.,3834
+This material isn't used in production.,3835
+The winner was chosen by the judges.,3836
+New safety rules will be introduced.,3837
+The equipment should be inspected regularly.,3838
+Was the email sent this morning?,3839
+The damaged parts were replaced immediately.,3840
+Several mistakes were found in the report.,3841
+The building is being painted today.,3842
+The problem hasn't been explained properly.,3843
+These batteries can be recycled safely.,3844
+The concert was cancelled because of rain.,3845
+How is this device operated?,3846
+The patient was examined by a specialist.,3847
+The final version is being prepared.,3848
+All doors should be locked at night.,3849
+The new library will be opened soon.,3850
+The woman who teaches us is Canadian.,3851
+I bought a laptop that runs quietly.,3852
+This is the café where we first met.,3853
+The boy whose bike disappeared looks upset.,3854
+She returned the book which I recommended.,3855
+I know someone who repairs old watches.,3856
+The village where he grew up looks peaceful.,3857
+They hired a designer whose work impressed everyone.,3858
+The phone that you borrowed belongs to me.,3859
+Students who practise regularly improve faster.,3860
+We visited a castle which overlooks the sea.,3861
+The teacher whose car broke down arrived late.,3862
+This is the website where I found it.,3863
+She adopted a dog that loves swimming.,3864
+People who exercise often sleep better.,3865
+The restaurant where we ate has closed.,3866
+He met a scientist whose research changed medicine.,3867
+The shoes that I ordered finally arrived.,3868
+Anyone who needs help can ask me.,3869
+I remember the house where my grandparents lived.,3870
+The woman whose passport expired missed her flight.,3871
+This is the camera which records underwater sounds.,3872
+He prefers friends who speak honestly.,3873
+We found a path that leads uphill.,3874
+The company whose products we use expanded recently.,3875
+Is this the park where you jog?,3876
+She thanked the nurse who helped her.,3877
+The painting that hangs there is priceless.,3878
+I met a musician whose songs inspire young people.,3879
+The hotel where they stayed overlooked the harbour.,3880
+He fixed the printer which stopped working.,3881
+The student who won received a scholarship.,3882
+This is the tool that cuts thick wires.,3883
+We visited the town where my father was born.,3884
+The neighbour whose garden flooded needed assistance.,3885
+She found a wallet that contained several cards.,3886
+People who listen carefully avoid many misunderstandings.,3887
+The library where I study closes early.,3888
+He hired an assistant who speaks three languages.,3889
+The bridge which crosses the river needs repairs.,3890
+I know a chef whose desserts taste wonderful.,3891
+The jacket that she wore looked elegant.,3892
+Is there somewhere where we can park?,3893
+The athlete who broke the record trains daily.,3894
+We bought a table which folds easily.,3895
+She works with children whose families need support.,3896
+The village that we visited produces excellent cheese.,3897
+I found the notebook which you misplaced.,3898
+The museum where we met displays ancient coins.,3899
+He thanked everyone who supported his project.,3900
+She enjoys solving difficult puzzles.,3901
+I decided to change my career.,3902
+He avoids eating late at night.,3903
+We hope to visit Iceland someday.,3904
+They suggested taking a different route.,3905
+I want to improve my pronunciation.,3906
+She finished writing her research paper.,3907
+He promised to return the equipment.,3908
+We practise speaking English every morning.,3909
+They agreed to share the costs.,3910
+I don't mind waiting outside.,3911
+She refused to answer the question.,3912
+He admitted making several mistakes.,3913
+We plan to renovate the kitchen.,3914
+She keeps forgetting people's names.,3915
+I managed to solve the equation.,3916
+They postponed discussing the budget.,3917
+He expects to receive a reply.,3918
+I miss walking beside the river.,3919
+She offered to carry my suitcase.,3920
+We considered moving to another city.,3921
+He learned to operate the machine.,3922
+They recommended visiting the local museum.,3923
+I forgot to attach the document.,3924
+She enjoys collecting unusual postcards.,3925
+We need to replace the broken switch.,3926
+He stopped smoking last year.,3927
+I stopped to answer an urgent call.,3928
+They avoided discussing the sensitive issue.,3929
+She hopes to publish her first novel.,3930
+I can't afford to buy that camera.,3931
+He suggested meeting after the lesson.,3932
+We agreed to postpone the decision.,3933
+She dislikes driving during heavy rain.,3934
+They failed to notice the warning.,3935
+I finished organizing my workshop tools.,3936
+He offered to explain the procedure.,3937
+We expect to hear the results soon.,3938
+She admitted breaking the kitchen window.,3939
+I chose to study electrical engineering.,3940
+They enjoy exploring unfamiliar neighbourhoods.,3941
+He avoids making promises he can't keep.,3942
+We decided to reduce unnecessary expenses.,3943
+She kept asking the same question.,3944
+I would like to reserve a table.,3945
+He regrets sharing that confidential information.,3946
+They managed to repair the damaged circuit.,3947
+She wants to become a skilled electrician.,3948
+We finished preparing the laboratory equipment.,3949
+He hopes to find a better solution.,3950
+She said that she felt exhausted.,3951
+He told me he needed help.,3952
+They said the meeting was cancelled.,3953
+She asked whether I knew the answer.,3954
+He told us to wait outside.,3955
+I explained that the printer was broken.,3956
+She said she would arrive later.,3957
+He asked where I had parked.,3958
+They told him to follow the instructions.,3959
+My teacher said I had improved.,3960
+She asked if the shop was open.,3961
+He explained why he had resigned.,3962
+They said they were moving abroad.,3963
+I told her to call me tomorrow.,3964
+She asked what I wanted for dinner.,3965
+He said he couldn't attend the ceremony.,3966
+The manager told everyone to remain calm.,3967
+They asked whether we had enough supplies.,3968
+I said I had already paid.,3969
+She explained that the road was closed.,3970
+He asked me to check the figures.,3971
+They said they might visit us soon.,3972
+She told him not to touch anything.,3973
+I asked when the train would leave.,3974
+He admitted that he had forgotten.,3975
+They told us the museum closed early.,3976
+She asked if I could drive.,3977
+He said he was feeling much better.,3978
+The officer told us to show identification.,3979
+I explained how the device worked.,3980
+She said she hadn't received my email.,3981
+He asked why we had changed plans.,3982
+They told me to keep the receipt.,3983
+My colleague said he would handle everything.,3984
+She asked whether I had seen the notice.,3985
+He warned us not to enter the building.,3986
+They explained that prices had increased.,3987
+I told him I was busy.,3988
+She asked where her keys were.,3989
+He promised that he would return soon.,3990
+They said they had never visited Greece.,3991
+The doctor advised me to rest.,3992
+She asked how long the journey took.,3993
+He told us that the project was finished.,3994
+I asked if she wanted some coffee.,3995
+They warned him to drive carefully.,3996
+She explained that she had missed the bus.,3997
+He asked me whether I lived nearby.,3998
+My father reminded me to lock the door.,3999
+They said they were planning a surprise.,4000
+Never give up your dreams,4001
+We found out the truth,4002
+Please carry on with work,4003
+They put off the meeting,4004
+I look after my nephew,4005
+She set up a website,4006
+He turned down the offer,4007
+I picked up useful tips,4008
+We ran out of sugar,4009
+The plane took off safely,4010
+Don't give up so easily,4011
+She found out yesterday's mistake,4012
+Carry on despite the noise,4013
+We put off our trip,4014
+He looks after abandoned animals,4015
+They set up new equipment,4016
+I turned down extra work,4017
+She picked up Spanish quickly,4018
+We ran out of time,4019
+The helicopter took off smoothly,4020
+He gave up smoking completely,4021
+I found out later,4022
+They carried on without complaints,4023
+She put off cleaning,4024
+My grandmother looks after flowers,4025
+We set up cameras,4026
+He turned down another invitation,4027
+I picked up my cousin,4028
+They ran out of fuel,4029
+The bird took off suddenly,4030
+Don't give up hope,4031
+We found out everything,4032
+Carry on until sunset,4033
+He put off studying,4034
+She looks after elderly neighbors,4035
+They set up chairs,4036
+I turned down fake promises,4037
+He picked up groceries,4038
+We ran out of paper,4039
+The rocket took off successfully,4040
+She gave up complaining,4041
+I found out accidentally,4042
+They carried on confidently,4043
+We put off buying furniture,4044
+He looks after younger siblings,4045
+I set up everything,4046
+She turned down unnecessary advice,4047
+We picked up litter,4048
+They ran out of battery,4049
+My hat took off,4050
+She brought up an interesting question,4051
+I came across an old photograph,4052
+He figured out the password eventually,4053
+She got over her disappointment,4054
+We look forward to meeting everyone,4055
+The students worked out the solution,4056
+He ran into an old colleague,4057
+Please fill out this application form,4058
+They called off the outdoor event,4059
+I looked up the unfamiliar word,4060
+She takes after her grandmother,4061
+We need to sort out this problem,4062
+He turned up unexpectedly,4063
+They carried out the experiment carefully,4064
+I can't keep up with him,4065
+She made up an amusing story,4066
+The meeting broke up before noon,4067
+He came up with a clever solution,4068
+We need to cut down on waste,4069
+She passed out from exhaustion,4070
+I stumbled upon a hidden garden,4071
+He put on his safety goggles,4072
+They took over the family business,4073
+She backed up her important files,4074
+We came back before dark,4075
+He gave away his old books,4076
+I need to catch up on reading,4077
+The engine broke down during the journey,4078
+She pointed out a small error,4079
+They set off before sunrise,4080
+He got along with his neighbours,4081
+I looked into the unusual complaint,4082
+She brought back some souvenirs,4083
+We ran over the main points,4084
+He dropped by after work,4085
+They checked in at the hotel,4086
+She grew up near the coast,4087
+I switched off the hallway lights,4088
+He held on during difficult times,4089
+We went through the instructions together,4090
+She talked me into joining the club,4091
+They broke into laughter suddenly,4092
+I ran across an unusual expression,4093
+He turned out to be right,4094
+We need to deal with complaints,4095
+She gave in after a long discussion,4096
+The alarm went off unexpectedly,4097
+He came down with a cold,4098
+I can't make out the handwriting,4099
+They pulled through a difficult period,4100
+"Although tired, she finished the report",4101
+"The road was flooded; therefore, we turned back",4102
+You won't improve unless you practise regularly,4103
+"He prefers tea, whereas I prefer coffee",4104
+"Despite the delay, everyone remained patient",4105
+"The instructions were unclear; however, we continued",4106
+"Since it was late, we took a taxi",4107
+I'll attend the event unless something unexpected happens,4108
+"Although expensive, this laptop performs exceptionally well",4109
+"She studied hard; consequently, she passed",4110
+"While I enjoy hiking, my brother prefers cycling",4111
+We stayed indoors because the wind strengthened,4112
+"Despite his experience, he made several mistakes",4113
+"The shop had closed, so we returned home",4114
+"Unless you hurry, you'll miss the opening",4115
+"Although nervous, he delivered an excellent presentation",4116
+She saved money so that she could travel,4117
+"The task was difficult; nevertheless, they succeeded",4118
+"Since nobody objected, we approved the proposal",4119
+"Whereas some prefer cities, others enjoy villages",4120
+He missed the deadline because his computer crashed,4121
+"Even though it rained, the match continued",4122
+"The evidence was weak; therefore, they investigated further",4123
+I'll lend you mine provided you return it,4124
+"Despite feeling unwell, she attended the interview",4125
+We left early in order to avoid traffic,4126
+"Although the room was small, it felt comfortable",4127
+"He forgot the map; consequently, we got lost",4128
+"Unless prices decrease, demand may remain low",4129
+"She likes working alone, while he prefers teamwork",4130
+The device failed because its battery was empty,4131
+"Nevertheless, they refused to abandon the project",4132
+"Although inexperienced, she handled the situation calmly",4133
+We postponed the picnic due to heavy rain,4134
+You can borrow the car as long as you drive carefully,4135
+"He was exhausted; however, he kept working",4136
+"Since the shop was crowded, we waited outside",4137
+"Despite repeated warnings, they ignored the danger",4138
+I'll explain again in case you missed something,4139
+"The plan sounded promising, but it lacked detail",4140
+"Although she disagreed, she respected our decision",4141
+"The battery died; as a result, the screen went dark",4142
+"Unless we cooperate, the project won't succeed",4143
+"He speaks confidently, whereas his colleague seems nervous",4144
+"Despite the noise, the baby slept peacefully",4145
+We took the stairs because the lift was broken,4146
+"Even though he apologized, she remained upset",4147
+"The deadline was extended; therefore, everyone relaxed",4148
+You may leave once you've completed the checklist,4149
+"While technology advances, new challenges continue emerging",4150
+This route is considerably shorter than ours,4151
+Her latest design looks much more practical,4152
+The suitcase isn't light enough for me,4153
+Today's lesson was far more challenging,4154
+This room is twice as large,4155
+The soup is too salty to eat,4156
+My new chair feels much more comfortable,4157
+He isn't experienced enough to manage this,4158
+Electric cars are becoming increasingly popular,4159
+That was the least convincing explanation,4160
+The second attempt was slightly better,4161
+This fabric is as soft as silk,4162
+The box is too heavy to lift,4163
+Her handwriting is much clearer now,4164
+This solution costs considerably less than expected,4165
+The hall wasn't big enough for everyone,4166
+Your explanation was almost as clear as hers,4167
+Winter nights here are far colder,4168
+The coffee is too hot to drink,4169
+His latest project is more ambitious than before,4170
+This battery lasts twice as long,4171
+The instructions aren't simple enough for beginners,4172
+Today's traffic is much worse than yesterday's,4173
+Her second novel was equally successful,4174
+The ladder isn't tall enough to reach,4175
+This method is far less complicated,4176
+The blue jacket suits you better,4177
+The hall was too crowded to enter,4178
+My commute is shorter than it used to be,4179
+This engine is powerful enough for towing,4180
+The northern route is slightly more dangerous,4181
+His response was much more thoughtful,4182
+The screen is too dim to read,4183
+Their newest model is surprisingly affordable,4184
+This chair is nearly as heavy as mine,4185
+The explanation was nowhere near detailed enough,4186
+Her performance improved considerably over time,4187
+The river is wider than it appears,4188
+This task is too complex for beginners,4189
+Our latest results are better than expected,4190
+The new timetable is much easier to follow,4191
+The suitcase is light enough to carry,4192
+This route is no longer than ours,4193
+Her voice sounds slightly different today,4194
+The screen resolution is far superior,4195
+He wasn't careful enough with the equipment,4196
+This year's harvest was much smaller,4197
+The new system works twice as fast,4198
+The explanation was too vague to understand,4199
+Their final proposal was the most realistic,4200
+"Although tired, she finished the report",4201
+"The road was flooded; therefore, we turned back",4202
+You won't improve unless you practise regularly,4203
+"He prefers tea, whereas I prefer coffee",4204
+"Despite the delay, everyone remained patient",4205
+"The instructions were unclear; however, we continued",4206
+"Since it was late, we took a taxi",4207
+I'll attend the event unless something unexpected happens,4208
+"Although expensive, this laptop performs exceptionally well",4209
+"She studied hard; consequently, she passed",4210
+"While I enjoy hiking, my brother prefers cycling",4211
+We stayed indoors because the wind strengthened,4212
+"Despite his experience, he made several mistakes",4213
+"The shop had closed, so we returned home",4214
+"Unless you hurry, you'll miss the opening",4215
+"Although nervous, he delivered an excellent presentation",4216
+She saved money so that she could travel,4217
+"The task was difficult; nevertheless, they succeeded",4218
+"Since nobody objected, we approved the proposal",4219
+"Whereas some prefer cities, others enjoy villages",4220
+He missed the deadline because his computer crashed,4221
+"Even though it rained, the match continued",4222
+"The evidence was weak; therefore, they investigated further",4223
+I'll lend you mine provided you return it,4224
+"Despite feeling unwell, she attended the interview",4225
+We left early in order to avoid traffic,4226
+"Although the room was small, it felt comfortable",4227
+"He forgot the map; consequently, we got lost",4228
+"Unless prices decrease, demand may remain low",4229
+"She likes working alone, while he prefers teamwork",4230
+The device failed because its battery was empty,4231
+"Nevertheless, they refused to abandon the project",4232
+"Although inexperienced, she handled the situation calmly",4233
+We postponed the picnic due to heavy rain,4234
+You can borrow the car as long as you drive carefully,4235
+"He was exhausted; however, he kept working",4236
+"Since the shop was crowded, we waited outside",4237
+"Despite repeated warnings, they ignored the danger",4238
+I'll explain again in case you missed something,4239
+"The plan sounded promising, but it lacked detail",4240
+"Although she disagreed, she respected our decision",4241
+"The battery died; as a result, the screen went dark",4242
+"Unless we cooperate, the project won't succeed",4243
+"He speaks confidently, whereas his colleague seems nervous",4244
+"Despite the noise, the baby slept peacefully",4245
+We took the stairs because the lift was broken,4246
+"Even though he apologized, she remained upset",4247
+"The deadline was extended; therefore, everyone relaxed",4248
+You may leave once you've completed the checklist,4249
+"While technology advances, new challenges continue emerging",4250
+This route is considerably shorter than ours,4251
+Her latest design looks much more practical,4252
+The suitcase isn't light enough for me,4253
+Today's lesson was far more challenging,4254
+This room is twice as large,4255
+The soup is too salty to eat,4256
+My new chair feels much more comfortable,4257
+He isn't experienced enough to manage this,4258
+Electric cars are becoming increasingly popular,4259
+That was the least convincing explanation,4260
+The second attempt was slightly better,4261
+This fabric is as soft as silk,4262
+The box is too heavy to lift,4263
+Her handwriting is much clearer now,4264
+This solution costs considerably less than expected,4265
+The hall wasn't big enough for everyone,4266
+Your explanation was almost as clear as hers,4267
+Winter nights here are far colder,4268
+The coffee is too hot to drink,4269
+His latest project is more ambitious than before,4270
+This battery lasts twice as long,4271
+The instructions aren't simple enough for beginners,4272
+Today's traffic is much worse than yesterday's,4273
+Her second novel was equally successful,4274
+The ladder isn't tall enough to reach,4275
+This method is far less complicated,4276
+The blue jacket suits you better,4277
+The hall was too crowded to enter,4278
+My commute is shorter than it used to be,4279
+This engine is powerful enough for towing,4280
+The northern route is slightly more dangerous,4281
+His response was much more thoughtful,4282
+The screen is too dim to read,4283
+Their newest model is surprisingly affordable,4284
+This chair is nearly as heavy as mine,4285
+The explanation was nowhere near detailed enough,4286
+Her performance improved considerably over time,4287
+The river is wider than it appears,4288
+This task is too complex for beginners,4289
+Our latest results are better than expected,4290
+The new timetable is much easier to follow,4291
+The suitcase is light enough to carry,4292
+This route is no longer than ours,4293
+Her voice sounds slightly different today,4294
+The screen resolution is far superior,4295
+He wasn't careful enough with the equipment,4296
+This year's harvest was much smaller,4297
+The new system works twice as fast,4298
+The explanation was too vague to understand,4299
+Their final proposal was the most realistic,4300
+I finished doing my homework.,4301
+She finished reading the book.,4302
+We finished cleaning the kitchen.,4303
+He finished writing the report.,4304
+They finished watching the movie.,4305
+She suggested going to the park.,4306
+He suggested taking a taxi.,4307
+I suggest studying together.,4308
+They suggested having dinner outside.,4309
+My teacher suggested practicing every day.,4310
+I practice speaking English every day.,4311
+She practices playing the piano.,4312
+He practices writing new words.,4313
+We practice listening to English songs.,4314
+They practice answering questions.,4315
+He keeps talking during the lesson.,4316
+She keeps forgetting her keys.,4317
+They keep asking the same question.,4318
+I keep making the same mistake.,4319
+We keep trying to improve.,4320
+This job involves working with children.,4321
+The project involves studying different cultures.,4322
+Cooking involves using fresh ingredients.,4323
+Learning a language involves practicing regularly.,4324
+The activity involves meeting new people.,4325
+I avoid eating too much sugar.,4326
+She avoids driving at night.,4327
+He avoids talking about his problems.,4328
+We avoid watching violent films.,4329
+They avoid spending too much money.,4330
+He admitted making a mistake.,4331
+She admitted taking the money.,4332
+I admit forgetting your birthday.,4333
+They admitted cheating on the test.,4334
+The boy admitted breaking the window.,4335
+She denied telling the secret.,4336
+He denied stealing the phone.,4337
+They denied breaking the door.,4338
+I deny saying those words.,4339
+The student denied copying the answers.,4340
+He risks losing his job.,4341
+We risk missing the bus.,4342
+She risks hurting herself.,4343
+They risk damaging the car.,4344
+I do not want to risk making another mistake.,4345
+I enjoy reading books.,4346
+She enjoys listening to music.,4347
+He enjoys playing football.,4348
+We enjoy visiting new places.,4349
+They enjoy cooking together.,4350
+I dislike getting up early.,4351
+She dislikes waiting for buses.,4352
+He dislikes working on weekends.,4353
+We dislike eating alone.,4354
+They dislike cleaning the house.,4355
+Do you mind opening the window?,4356
+Would you mind helping me?,4357
+I do not mind waiting.,4358
+She does not mind working late.,4359
+Do they mind sharing the room?,4360
+I could not resist eating the cake.,4361
+She resisted buying the expensive dress.,4362
+He could not resist laughing.,4363
+They resisted changing their plans.,4364
+We tried to resist spending more money.,4365
+Can you imagine living in another country?,4366
+I cannot imagine working without music.,4367
+She imagines becoming a famous singer.,4368
+He imagined traveling around the world.,4369
+They cannot imagine studying at night.,4370
+We postponed having the meeting.,4371
+She postponed visiting her doctor.,4372
+He postponed buying a new car.,4373
+They postponed moving to another city.,4374
+I postponed doing my homework.,4375
+I appreciate having your support.,4376
+She appreciates getting help from her friends.,4377
+He appreciates working with good people.,4378
+We appreciate learning new things.,4379
+They appreciate living in a safe neighborhood.,4380
+I am considering changing my job.,4381
+She considered moving to London.,4382
+He is considering buying a bicycle.,4383
+We considered taking a different route.,4384
+They are considering studying abroad.,4385
+To learn English takes time.,4386
+To travel around the world is my dream.,4387
+To exercise regularly keeps you healthy.,4388
+To save money requires discipline.,4389
+To help other people is important.,4390
+I want to learn Spanish.,4391
+She decided to stay at home.,4392
+He forgot to lock the door.,4393
+We agreed to help them.,4394
+They plan to visit Italy.,4395
+I study hard to pass the exam.,4396
+She went to the market to buy some food.,4397
+He left early to catch the bus.,4398
+We exercise to stay healthy.,4399
+They came here to meet their friends.,4400
+I am happy to see you.,4401
+She is ready to start.,4402
+He is eager to learn.,4403
+We are surprised to hear the news.,4404
+They are afraid to speak English.,4405
+I want to improve my pronunciation.,4406
+She wants to buy a new laptop.,4407
+He wants to become a pilot.,4408
+We want to visit the museum.,4409
+They want to learn German.,4410
+I decided to take a short break.,4411
+She decided to change her hairstyle.,4412
+He decided to study medicine.,4413
+We decided to move to a smaller house.,4414
+They decided to cancel the trip.,4415
+I plan to start a new course.,4416
+She plans to invite her cousins.,4417
+He plans to repair his bicycle.,4418
+We plan to spend the weekend by the sea.,4419
+They plan to open a small restaurant.,4420
+I hope to see you soon.,4421
+She hopes to win the competition.,4422
+He hopes to find a better job.,4423
+We hope to finish the work today.,4424
+They hope to travel next summer.,4425
+I expect to receive an email today.,4426
+She expects to arrive before noon.,4427
+He expects to pass the driving test.,4428
+We expect to hear good news.,4429
+They expect to sell the house soon.,4430
+I prepared to give a short speech.,4431
+She prepared to leave the office.,4432
+He prepared to answer the questions.,4433
+We prepared to welcome the guests.,4434
+They prepared to begin the meeting.,4435
+I promised to call my mother.,4436
+She promised to keep the secret.,4437
+He promised to arrive on time.,4438
+We promised to help our neighbors.,4439
+They promised to return the books.,4440
+I offered to carry her bag.,4441
+She offered to make some tea.,4442
+He offered to drive us home.,4443
+We offered to clean the classroom.,4444
+They offered to pay for dinner.,4445
+I agreed to join the team.,4446
+She agreed to share her notes.,4447
+He agreed to fix the computer.,4448
+We agreed to meet after work.,4449
+They agreed to follow the rules.,4450
+I refused to answer the question.,4451
+She refused to open the door.,4452
+He refused to change his decision.,4453
+We refused to accept the invitation.,4454
+They refused to leave the building.,4455
+I need to buy some vegetables.,4456
+She needs to wash her clothes.,4457
+He needs to speak to his teacher.,4458
+We need to check the information.,4459
+They need to find a new apartment.,4460
+I attempted to solve the puzzle.,4461
+She attempted to repair the chair.,4462
+He attempted to climb the wall.,4463
+We attempted to answer every question.,4464
+They attempted to cross the river.,4465
+I failed to remember his name.,4466
+She failed to catch the train.,4467
+He failed to understand the instructions.,4468
+We failed to complete the exercise.,4469
+They failed to protect the building.,4470
+I managed to finish the project.,4471
+She managed to find her lost wallet.,4472
+He managed to fix the broken door.,4473
+We managed to arrive before dark.,4474
+They managed to solve the problem.,4475
+I cannot afford to buy a new phone.,4476
+She cannot afford to miss another class.,4477
+He can afford to rent a larger apartment.,4478
+We cannot afford to waste time.,4479
+They can afford to travel twice a year.,4480
+I learned to ride a bicycle.,4481
+She learned to cook from her grandmother.,4482
+He learned to speak French at school.,4483
+We learned to use the new program.,4484
+They learned to work as a team.,4485
+I seem to understand the lesson.,4486
+She seems to know the answer.,4487
+He seems to feel tired today.,4488
+We seem to have a problem.,4489
+They seem to enjoy the activity.,4490
+I arranged to meet my friend downtown.,4491
+She arranged to visit the doctor.,4492
+He arranged to send the documents.,4493
+We arranged to have lunch together.,4494
+They arranged to stay at a hotel.,4495
+I tend to drink tea in the morning.,4496
+She tends to speak very quietly.,4497
+He tends to forget important dates.,4498
+We tend to eat dinner late.,4499
+They tend to arrive early.,4500
+I demanded to speak with the manager.,4501
+She demanded to know the truth.,4502
+He demanded to see the report.,4503
+We demanded to receive an explanation.,4504
+They demanded to leave immediately.,4505
+"The movie was dull, so I fell asleep.",4506
+This knife is dull and cannot cut the bread easily.,4507
+He felt dull after staying at home all day.,4508
+The classroom looked dull because the walls were gray.,4509
+"The lecture was a little dull, but I learned something useful.",4510
+I saw a bizarre bird in the park yesterday.,4511
+She told me a bizarre story about her trip.,4512
+His bizarre clothes attracted everyone’s attention.,4513
+It was bizarre to see snow in summer.,4514
+The movie had a very bizarre ending.,4515
+I will attempt to finish my homework before dinner.,4516
+She made an attempt to learn Spanish.,4517
+He attempted to fix the broken chair.,4518
+This is my first attempt at cooking pasta.,4519
+They attempted to climb the mountain in bad weather.,4520
+The teacher praised me for my excellent project.,4521
+She received a lot of praise after winning the competition.,4522
+My parents always praise me when I work hard.,4523
+He praised the chef for preparing such a delicious meal.,4524
+The manager praised our team for finishing the work early.,4525
+Too much sun can harm your skin.,4526
+Smoking can cause serious harm to your health.,4527
+Be careful not to harm the animals.,4528
+The storm did a lot of harm to the farmers’ crops.,4529
+This medicine will not harm you if you follow the instructions.,4530
+The Sahara is a vast desert in Africa.,4531
+They walked across a vast field of green grass.,4532
+The library has a vast collection of books.,4533
+She has a vast knowledge of world history.,4534
+We could see the vast ocean from the top of the hill.,4535
+I realized that I had forgotten my keys at home.,4536
+She realized the answer after reading the question again.,4537
+He realized how important his family was.,4538
+We realized that the bus had already left.,4539
+They realized their mistake and apologized.,4540
+The villagers had to flee their homes because of the fire.,4541
+The thief tried to flee when he saw the police.,4542
+Many people flee dangerous countries to find safety.,4543
+The rabbit fled when it heard the loud noise.,4544
+They decided to flee the city before the storm arrived.,4545
+The color of my old shirt began to fade after many washes.,4546
+Her memories of the trip slowly faded over time.,4547
+The sunlight made the curtains fade.,4548
+The sound of the music faded as the car drove away.,4549
+His anger began to fade after he talked to his friend.,4550
+Be careful not to tear the paper.,4551
+A tear rolled down her cheek when she heard the sad news.,4552
+I accidentally tore my jacket on a sharp branch.,4553
+The strong wind may tear the old flag.,4554
+He wiped a tear from his eye.,4555
+"My grandfather is bald, but he looks very handsome.",4556
+The man started to go bald in his thirties.,4557
+He wears a hat because he is bald.,4558
+The bald eagle flew over the lake.,4559
+The doctor noticed a bald spot on his head.,4560
+Please consider my suggestion before making a decision.,4561
+We should consider the cost of the trip.,4562
+She is considering moving to another city.,4563
+He carefully considered all the possible choices.,4564
+Consider how your words might affect other people.,4565
+I would rather stay at home tonight.,4566
+She chose tea rather than coffee.,4567
+It is rather cold outside today.,4568
+Would you rather watch a movie or play a game?,4569
+He was rather surprised by the news.,4570
+The teacher used a new approach to help students learn.,4571
+We saw a boat approaching the harbor.,4572
+Please approach the dog slowly and carefully.,4573
+The exam date is approaching quickly.,4574
+She decided to approach her manager about the problem.,4575
+The demand for clean water is increasing.,4576
+This job demands a lot of patience.,4577
+Customers demand good service.,4578
+The workers demanded higher wages.,4579
+There is a high demand for electric cars.,4580
+The manager approved my vacation request.,4581
+We need the teacher to approve our project.,4582
+She approved the plan after reading it carefully.,4583
+The bank approved his loan application.,4584
+My parents do not approve of my decision.,4585
+The festival is held in observance of an important religious day.,4586
+The school organized a ceremony in observance of Republic Day.,4587
+Many people avoid eating during the observance of Ramadan.,4588
+The museum is closed in observance of the national holiday.,4589
+"In observance of Earth Day, we planted trees in the park.",4590
+The doctor will determine the best treatment for the patient.,4591
+We need more information to determine what happened.,4592
+The test will determine your level of English.,4593
+She worked hard to determine the cause of the problem.,4594
+The weather will determine whether we have the picnic outside.,4595
+I believe public libraries remain essential.,4596
+"In my opinion, teamwork improves problem-solving.",4597
+The main reason is limited funding.,4598
+"Personally, I prefer learning through practice.",4599
+I agree because the evidence seems convincing.,4600
+"From my perspective, patience matters more than speed.",4601
+I disagree with that particular conclusion.,4602
+One advantage is reduced energy consumption.,4603
+I suspect the original estimate was inaccurate.,4604
+This approach seems reasonable for beginners.,4605
+I strongly believe education creates opportunities.,4606
+The biggest drawback is its high cost.,4607
+I would argue that prevention saves money.,4608
+That explanation doesn't fully convince me.,4609
+There are several reasons to support this change.,4610
+I tend to favour simpler solutions.,4611
+The evidence suggests a different explanation.,4612
+"I see your point, but disagree.",4613
+One possible explanation is poor communication.,4614
+I consider reliability more important than appearance.,4615
+My view is based on personal experience.,4616
+I doubt this policy will work.,4617
+The strongest argument concerns public safety.,4618
+I support the proposal for practical reasons.,4619
+This choice depends on individual circumstances.,4620
+I find that reasoning difficult to accept.,4621
+A major benefit is improved accessibility.,4622
+I would prefer a more balanced approach.,4623
+The results seem consistent with our expectations.,4624
+I believe every student deserves encouragement.,4625
+My main concern is long-term sustainability.,4626
+"I understand the argument, although I remain unconvinced.",4627
+This decision could create unnecessary complications.,4628
+One reason is the lack of experience.,4629
+I generally prefer evidence over assumptions.,4630
+The proposal offers several practical benefits.,4631
+I wouldn't describe that result as successful.,4632
+"From an economic perspective, the plan seems sensible.",4633
+I accept that criticism as fair.,4634
+The available evidence supports this interpretation.,4635
+I believe consistency leads to lasting improvement.,4636
+The main weakness is insufficient preparation.,4637
+I partly agree with your assessment.,4638
+This argument overlooks an important detail.,4639
+I favour the second option for now.,4640
+The outcome depends largely on careful planning.,4641
+I find this explanation more persuasive.,4642
+One concern is the potential environmental impact.,4643
+I would question that assumption.,4644
+"Overall, the advantages outweigh the disadvantages.",4645
+We should examine the problem carefully.,4646
+You could restart the computer.,4647
+Why don't we try another method?,4648
+It would be better to postpone the launch.,4649
+She should discuss this with her manager.,4650
+We could replace the damaged component.,4651
+How about organizing a study group?,4652
+You'd better check the measurements again.,4653
+They should reduce unnecessary expenses.,4654
+Perhaps we could contact technical support.,4655
+I suggest changing the original schedule.,4656
+We need a more practical solution.,4657
+You might want to reconsider that decision.,4658
+Let's divide the work equally.,4659
+The simplest option would be replacing the cable.,4660
+We should identify the main cause first.,4661
+Could you explain the problem in detail?,4662
+Why not use a smaller motor?,4663
+It would help to compare both results.,4664
+You shouldn't ignore these warning signs.,4665
+We could ask an experienced technician.,4666
+I recommend checking the power supply.,4667
+Let's look for another supplier.,4668
+You should keep a backup copy.,4669
+A short break might improve concentration.,4670
+We ought to consider the environmental impact.,4671
+It would be useful to collect feedback.,4672
+Could we simplify the installation process?,4673
+I suggest creating a weekly timetable.,4674
+They should communicate more effectively.,4675
+Why don't we review the budget?,4676
+You could explain your concerns politely.,4677
+We need to prevent similar failures.,4678
+I'd recommend using stronger materials.,4679
+It would be safer to disconnect everything.,4680
+Let's investigate the unusual noise.,4681
+She should seek professional advice.,4682
+Could another approach produce better results?,4683
+We might solve this through cooperation.,4684
+The first step is finding the cause.,4685
+You'd better save your progress regularly.,4686
+I suggest testing the prototype outdoors.,4687
+We should avoid making rushed decisions.,4688
+How about using recycled materials?,4689
+They could improve customer communication.,4690
+It might be worth trying again.,4691
+Let's compare the available alternatives.,4692
+You should report the fault immediately.,4693
+We could develop a simpler procedure.,4694
+A different strategy may produce better outcomes.,4695
+The company recently changed its working hours.,
+Our students designed a simple robot.,
+This software requires regular maintenance.,
+She applied for a teaching position.,
+The workshop needs better ventilation.,
+He completed his internship last summer.,
+Online courses offer flexible learning opportunities.,
+The technician replaced the faulty sensor.,
+Our department received new equipment.,
+Digital skills improve employment opportunities.,
+The manager announced several important changes.,
+Students submitted their projects electronically.,
+This application protects confidential information.,
+He struggles with time management.,
+The laboratory contains advanced measuring instruments.,
+She gained valuable workplace experience.,
+Remote meetings reduce unnecessary travel.,
+The teacher explained the circuit diagram.,
+Our network experienced a temporary interruption.,
+Employees attended a safety workshop.,
+The new curriculum includes practical activities.,
+He developed an application for inventory management.,
+Several machines require immediate inspection.,
+She prefers working in small teams.,
+The students measured electrical resistance accurately.,
+Artificial intelligence supports various learning activities.,
+The company offers professional development programs.,
+We installed additional security cameras.,
+His presentation included useful technical information.,
+The equipment stopped working unexpectedly.,
+Good communication prevents workplace misunderstandings.,
+She completed the assignment before the deadline.,
+The new system saves valuable resources.,
+Students practised programming with Arduino boards.,
+He received positive feedback from colleagues.,
+The school organized a technology exhibition.,
+This device measures temperature automatically.,
+Online collaboration makes teamwork easier.,
+The technician identified a damaged connection.,
+Every employee must follow safety procedures.,
+She wants to improve her qualifications.,
+The server stores information securely.,
+Students developed creative engineering projects.,
+The company introduced a shorter training program.,
+Practical experience strengthens technical knowledge.,
+He solved the network configuration problem.,
+Digital platforms connect learners worldwide.,
+The instructor demonstrated the welding process.,
+Our project received financial support.,
+Continuous learning creates new opportunities.,

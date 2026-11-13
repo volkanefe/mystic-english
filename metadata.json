@@ -1,0 +1,6 @@
+{
+  "name": "Mystic English",
+  "description": "Karanlık fantastik 3D atmosferde dinamik hava durumu ve kristal can mekaniğiyle İngilizce cümle kurma oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
